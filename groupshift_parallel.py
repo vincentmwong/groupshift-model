@@ -96,7 +96,7 @@ def sims_to_run(num_sims_per_type, sim_config):
 if __name__ == "__main__":
     print("Setting up basic variables...")
     # >>> Set up sim params common across all sims
-    num_sims_per_type = 2
+    num_sims_per_type = 50
     num_workers = 16
     sim_config = {
         "num_nodes": 1000,
@@ -113,20 +113,6 @@ if __name__ == "__main__":
 
     print(f'Running {len(sims_to_run)} simulations...')
 
-    all_rows = []
-
-    with concurrent.futures.ProcessPoolExecutor(max_workers=num_workers) as executor:
-        futures = [executor.submit(run_and_collect, sim) for sim in sims_to_run]
-
-        for future in tqdm(concurrent.futures.as_completed(futures), total=len(futures)):
-            try:
-                result_rows = future.result()
-                all_rows.extend(result_rows)
-            except Exception as exc:
-                print(f'Simulation generated an exception: {exc}')
-    
-    df = pd.DataFrame(all_rows)
-
     output_folder = "/l/nx/data/groupshift/simdata/"
     os.makedirs(output_folder, exist_ok=True)
 
@@ -135,10 +121,34 @@ if __name__ == "__main__":
     filename = f"results_{timestamp}.csv"
 
     output_path = os.path.join(output_folder, filename)
+    first_write = True
 
-    df.to_csv(output_path, index=False)
+    #all_rows = []
+    with concurrent.futures.ProcessPoolExecutor(max_workers=num_workers) as executor:
+        futures = [executor.submit(run_and_collect, sim) for sim in sims_to_run]
 
-    print("Results saved:", output_path)
+        for future in tqdm(concurrent.futures.as_completed(futures), total=len(futures)):
+            try:
+                result_rows = future.result()
+                #all_rows.extend(result_rows)
+
+                df_partial = pd.DataFrame(result_rows)
+                df_partial.to_csv(
+                    output_path,
+                    mode='a',
+                    header=first_write,
+                    index=False
+                )
+
+                first_write = False
+            except Exception as exc:
+                print(f'Simulation generated an exception: {exc}')
+    
+    # df = pd.DataFrame(all_rows)
+    # df.to_csv(output_path, index=False)
+    # print("Results saved:", output_path)
+
+    print("All simulations completed.")
 
 else:
     from matplotlib import pyplot as plt

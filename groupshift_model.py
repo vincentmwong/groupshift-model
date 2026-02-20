@@ -605,7 +605,12 @@ class GroupshiftSim():
             rows.append({
                 "simnum": self.simnum,
                 "init_type": self.init_method,
+                "temp": self.temp,
                 "sample_method": self.SCOPE.sample_type,
+                "aAmp": self.GLEAN.aAmp, 
+                "aWidth": self.GLEAN.aWidth,
+                "rAmp": self.SHIFT.rAmp,
+                "rWidth": self.SHIFT.rWidth,
                 "GroupID": group,
                 "true_mean": float(true_mean),
                 "true_var": float(true_var),
