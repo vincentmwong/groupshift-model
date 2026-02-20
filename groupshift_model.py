@@ -1,7 +1,6 @@
 import numpy as np
 import pickle
 
-from tqdm import tqdm
 import pandas as pd
 import warnings
 import os
@@ -31,6 +30,7 @@ class DoNothing(MechanicBase):
 
 class IngroupOnly(MechanicBase):
     def __init__(self):
+        self.name = "ingrouponly"
         pass
 
     def apply(self, G, N, N_adj, affected_nodes, t):
@@ -179,6 +179,7 @@ class AsymmetricSample(MechanicBase):
         self.ingroupSS = ingroup_sample_size
         self.outgroupSS = outgroup_sample_size
         self.sample_type = sample_type # "random", "extremity", "proximity"
+        self.name = "asymmetricsample"
 
     def apply(self, G, N, N_adj, affected_nodes, t):
         members = []
@@ -243,6 +244,7 @@ class AsymmetricSample(MechanicBase):
 
 class TakeMean(MechanicBase):
     def __init__(self):
+        self.name = "takemean"
         pass
 
     def apply(self, G, N, N_adj, affected_nodes, t, scope):
@@ -260,6 +262,7 @@ class TakeMean(MechanicBase):
 class LagMean(MechanicBase):
     def __init__(self, reluctance):
         self.reluctance = reluctance
+        self.name = "lagmean"
 
     def apply(self, G, N, N_adj, affected_nodes, t, scope):
         for i, node_idx in enumerate(affected_nodes):
@@ -278,6 +281,7 @@ class Attract(MechanicBase):
         self.aWidth = aWidth
         self.aAmp = aAmp
         self.normalize = normalize
+        self.name = "attract"
 
     def apply(self, G, N, N_adj, affected_nodes, t, scope):
         for i, node_idx in enumerate(affected_nodes):
@@ -331,9 +335,9 @@ class RepulseSpecific(MechanicBase):
         raise ValueError("This mechanic is not yet implemented.")
         pass
 
-#===============================================================================
+#=============================================================================================================================================
 # Simulation class
-#===============================================================================
+#=============================================================================================================================================
 class GroupshiftSim():
     def __init__(self, G, N, N_adj, C, num_nodes, dims, num_groups, timesteps, opinion_range, simnum, temp, init_method, SCOPE, GLEAN, SHIFT, folder = None, filename = None):
         # This function assumes the following shapes:
@@ -437,7 +441,7 @@ class GroupshiftSim():
             self.N_adj[node_idx, t] = closest_group
 
     def run_simulation(self, *mechanic_params):
-        for t in tqdm(range(1,self.timesteps)):
+        for t in range(1,self.timesteps):
             #Define the nodes affected this timestep
             affected_nodes = self.C[t, :]
 
@@ -556,6 +560,63 @@ class GroupshiftSim():
         self.N = None
         self.N_adj = None
         self.C = None
+
+    def outputMetrics(self, dim=0, end_window=500):
+        """
+        Compute per-group summary metrics for this simulation.
+        Returns a list of dicts (one per group).
+        """
+
+        T = self.timesteps
+        end_slice = slice(T - end_window, T)
+
+        rows = []
+
+        for group in range(self.num_groups):
+
+            # --- membership ---
+            members_init = np.where(self.N_adj[:, 0] == group)[0]
+            members_fin  = np.where(self.N_adj[:, T - 1] == group)[0]
+
+            if len(members_fin) == 0:
+                continue
+
+            # --- true opinions ---
+            true_vals_fin = self.N[members_fin, dim]
+            true_mean = np.mean(true_vals_fin)
+            true_var  = np.var(true_vals_fin)
+
+            # --- perceptions ---
+            percept_init = np.mean(
+                self.G[members_init, group, dim, 0]
+            )
+
+            percept_fin = np.mean(
+                self.G[members_fin, group, dim, end_slice]
+            )
+
+            outgroup = 1 - group
+
+            percept_outgroup_fin = np.mean(
+                self.G[members_fin, outgroup, dim, end_slice]
+            )
+
+            # --- store ---
+            rows.append({
+                "simnum": self.simnum,
+                "init_type": self.init_method,
+                "sample_method": self.SCOPE.sample_type,
+                "GroupID": group,
+                "true_mean": float(true_mean),
+                "true_var": float(true_var),
+                "group_size_init": int(len(members_init)),
+                "group_size_fin": int(len(members_fin)),
+                "percept_init": float(percept_init),
+                "percept_fin": float(percept_fin),
+                "percept_outgroup_fin": float(percept_outgroup_fin),
+            })
+
+        return rows
 
 
 
