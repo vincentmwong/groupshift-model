@@ -1,0 +1,68 @@
+% Build this file; edit the manuscript's prose in chapter01.tex.
+% The copied dissertation wrapper is preserved in main-dissertation.tex.bak.
+\documentclass[12pt]{article}
+
+% Page layout and the packages used by this manuscript.
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{mathtools}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{makecell}
+\usepackage{tabularx}
+\usepackage{hyphenat}
+\usepackage{caption}
+\usepackage{setspace}
+\usepackage{sectsty}
+\usepackage[most]{tcolorbox}
+\usepackage{xurl}
+
+% Keep the dissertation's APA citation style for this working draft.
+\usepackage[american]{babel}
+\usepackage{csquotes}
+\usepackage[
+  backend=biber,
+  style=apa,
+  language=auto,
+  date=year,
+  sorting=nyt,
+  doi=false,
+  isbn=false,
+  url=false,
+  maxcitenames=2,
+  mincitenames=1
+]{biblatex}
+\DeclareLanguageMapping{american}{american-apa}
+\addbibresource{references_v6.bib}
+\AtEveryBibitem{\clearfield{note}}
+\usepackage[hidelinks]{hyperref}
+
+\doublespacing
+\captionsetup{font=normalsize}
+\sectionfont{\normalsize\bfseries}
+\subsectionfont{\normalsize\bfseries}
+\subsubsectionfont{\normalsize\bfseries}
+\renewcommand{\arraystretch}{1.2}
+\renewcommand\theadfont{\normalsize\bfseries}
+\setlength{\extrarowheight}{2pt}
+\graphicspath{{images/}}
+
+% Working title and author, carried over from the dissertation.
+\title{Modeling Group Misperceptions from Sampling and Perception-Mediated Dynamics}
+\author{Vincent Wong, Yong-Yeol Ahn}
+\date{}
+
+\begin{document}
+\maketitle
+
+% Add the manuscript abstract here when it is ready:
+% \begin{abstract}
+% ...
+% \end{abstract}
+
+\input{chapter01}
+
+\clearpage
+% Only works cited in chapter01.tex appear here (no \nocite{*}).
+\printbibliography[title={References}]
+\end{document}

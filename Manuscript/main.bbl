@@ -1,0 +1,2969 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{ahler_parties_2018}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c4a2b5c16e83ef4b2d20430b4ba81b72}{%
+           family={Ahler},
+           familyi={A\bibinitperiod},
+           given={Douglas\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b123810a6b3614cfb9e60a8b9fcbcc9}{%
+           family={Sood},
+           familyi={S\bibinitperiod},
+           given={Gaurav},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{60942a3d6fd56939b59613a0ce54fb5e}
+      \strng{fullhash}{60942a3d6fd56939b59613a0ce54fb5e}
+      \strng{fullhashraw}{60942a3d6fd56939b59613a0ce54fb5e}
+      \strng{bibnamehash}{60942a3d6fd56939b59613a0ce54fb5e}
+      \strng{authorbibnamehash}{60942a3d6fd56939b59613a0ce54fb5e}
+      \strng{authornamehash}{60942a3d6fd56939b59613a0ce54fb5e}
+      \strng{authorfullhash}{60942a3d6fd56939b59613a0ce54fb5e}
+      \strng{authorfullhashraw}{60942a3d6fd56939b59613a0ce54fb5e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We document a large and consequential bias in how Americans perceive the major political parties: people tend to considerably overestimate the extent to which party supporters belong to party-stereotypical groups. For instance, people think that 32\% of Democrats are {LGBT} (vs. 6\% in reality) and 38\% of Republicans earn over \$250,000 per year (vs. 2\% in reality). Experimental data suggest that these misperceptions are genuine and party specific, not artifacts of expressive responding, innumeracy, or ignorance of base rates. These misperceptions are widely shared, though bias in out-party perceptions is larger. Using observational and experimental data, we document the consequences of this perceptual bias. Misperceptions about out-party composition are associated with partisan affect, beliefs about out-party extremity, and allegiance to one’s own party. When provided information about the out-party’s actual composition, partisans come to see its supporters as less extreme and feel less socially distant from them.}
+      \field{issn}{0022-3816}
+      \field{journaltitle}{The Journal of Politics}
+      \field{month}{7}
+      \field{number}{3}
+      \field{shorttitle}{The Parties in Our Heads}
+      \field{title}{The Parties in Our Heads: Misperceptions about Party Composition and Their Consequences}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{80}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{964\bibrangedash 981}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1086/697253
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\zelph\\Zotero\\storage\\RIKLZEL9\\Ahler and Sood - 2018 - The Parties in Our Heads Misperceptions about Party Composition and Their Consequences.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.journals.uchicago.edu/doi/full/10.1086/697253
+      \endverb
+      \verb{url}
+      \verb https://www.journals.uchicago.edu/doi/full/10.1086/697253
+      \endverb
+    \endentry
+    \entry{amialchuk_influence_2019}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=05e73ec6bb8a6eb34d3520173c777ecf}{%
+           family={Amialchuk},
+           familyi={A\bibinitperiod},
+           given={Aliaksandr},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14bf6de18e6a15ce6663467f65862e6e}{%
+           family={Ajilore},
+           familyi={A\bibinitperiod},
+           given={Olugbenga},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c8572cb4dc1b62ba0bcceab4e0c56bd}{%
+           family={Egan},
+           familyi={E\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2a24017906842a45c84a6e4b431ef018}
+      \strng{fullhash}{205fca6d95f183650dcf6bfbc3496307}
+      \strng{fullhashraw}{205fca6d95f183650dcf6bfbc3496307}
+      \strng{bibnamehash}{205fca6d95f183650dcf6bfbc3496307}
+      \strng{authorbibnamehash}{205fca6d95f183650dcf6bfbc3496307}
+      \strng{authornamehash}{2a24017906842a45c84a6e4b431ef018}
+      \strng{authorfullhash}{205fca6d95f183650dcf6bfbc3496307}
+      \strng{authorfullhashraw}{205fca6d95f183650dcf6bfbc3496307}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Individuals often have biased perceptions about their peers' behavior. We use an economic equilibrium analysis to study the role social norms play in substance use decisions. Using a nationally representative dataset, we estimate the effect of misperception about friends' alcohol, smoking, and marijuana use on consumption of these substances by youths in grades 7–12. Overestimation of friend's substance use significantly increases adolescent's own use approximately 1 year later, and the estimated effect is robust across specifications including individual-level fixed effects regression. The effect size is bigger for boys than for girls. The estimates for those who initially underestimated the norm suggest the possibility of a rebound/boomerang effect.}
+      \field{issn}{1099-1050}
+      \field{journaltitle}{Health Economics}
+      \field{langid}{english}
+      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/hec.3878}
+      \field{number}{6}
+      \field{title}{The influence of misperceptions about social norms on substance use among school-aged adolescents}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{28}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{736\bibrangedash 747}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1002/hec.3878
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\zelph\\Zotero\\storage\\M2QNNP2Z\\Amialchuk et al. - 2019 - The influence of misperceptions about social norms on substance use among school-aged adolescents.pdf:application/pdf;Snapshot:C\:\\Users\\zelph\\Zotero\\storage\\BXPV4SGU\\hec.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.3878
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.3878
+      \endverb
+      \keyw{social norms,substance use,adolescents,add health,misperception}
+    \endentry
+    \entry{barman-adhikari_descriptive_2017}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=4e4887e8785539a8068403679a20959e}{%
+           family={Barman-Adhikari},
+           familyi={B\bibinithyphendelim A\bibinitperiod},
+           given={Anamika},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88ed183fd9d6429458982b099083eebf}{%
+           family={Al\bibnamedelima Tayyib},
+           familyi={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Alia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bcae920d683d072b77f37ebccea5fd5}{%
+           family={Begun},
+           familyi={B\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ade847c7a0079225af075911a41bff8}{%
+           family={Bowen},
+           familyi={B\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5939162cae2d450f396f0f61e9143a5}{%
+           family={Rice},
+           familyi={R\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{117714b7c838ae3b1e4bd5b8c39ed876}
+      \strng{fullhash}{0df16139757e76636118cdb92a3123be}
+      \strng{fullhashraw}{0df16139757e76636118cdb92a3123be}
+      \strng{bibnamehash}{0df16139757e76636118cdb92a3123be}
+      \strng{authorbibnamehash}{0df16139757e76636118cdb92a3123be}
+      \strng{authornamehash}{117714b7c838ae3b1e4bd5b8c39ed876}
+      \strng{authorfullhash}{0df16139757e76636118cdb92a3123be}
+      \strng{authorfullhashraw}{0df16139757e76636118cdb92a3123be}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background Nonmedical use of prescription drugs ({NMUPD}) among youth and young adults is being increasingly recognized as a significant public health problem. Homeless youth in particular are more likely to engage in {NMUPD} compared to housed youth. Studies suggest that network norms are strongly associated with a range of substance use behaviors. However, evidence regarding the association between network norms and {NMUPD} is scarce. We sought to understand whether social network norms of {NMUPD} are associated with engagement in {NMUPD} among homeless youth. Methods 1046 homeless youth were recruited from three drop-in centers in Los Angeles, {CA} and were interviewed regarding their individual and social network characteristics. Multivariate logistic regression was employed to evaluate the significance of associations between social norms (descriptive and injunctive) and self-reported {NMUPD}. Results Approximately 25\% of youth reported past 30-day {NMUPD}. However, more youth (32.28\%) of youth believed that their network members engage in {NMUPD}, perhaps suggesting some pluralistic ignorance bias. Both descriptive and injunctive norms were associated with self-reported {NMUPD} among homeless youth. However, these varied by network type, with presence of {NMUPD} engaged street-based and home-based peers (descriptive norm) increasing the likelihood of {NMUPD}, while objections from family-members (injunctive norm) decreasing that likelihood. Conclusions Our findings suggest that, like other substance use behaviors, {NMUPD} is also influenced by youths' perceptions of the behaviors of their social network members. Therefore, prevention and interventions programs designed to influence {NMUPD} might benefit from taking a social network norms approach.}
+      \field{day}{1}
+      \field{issn}{0306-4603}
+      \field{journaltitle}{Addictive Behaviors}
+      \field{month}{1}
+      \field{shortjournal}{Addictive Behaviors}
+      \field{title}{Descriptive and injunctive network norms associated with nonmedical use of prescription drugs among homeless youth}
+      \field{urlday}{8}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{64}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{70\bibrangedash 77}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.addbeh.2016.08.015
+      \endverb
+      \verb{file}
+      \verb Accepted Version:C\:\\Users\\zelph\\Zotero\\storage\\XTUNMCH4\\Barman-Adhikari et al. - 2017 - Descriptive and injunctive network norms associated with nonmedical use of prescription drugs among.pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\zelph\\Zotero\\storage\\8LD9EA7H\\S0306460316302957.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0306460316302957
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0306460316302957
+      \endverb
+      \keyw{Homeless youth,Nonmedical use of prescription drugs,Social network norms,Substance use}
+    \endentry
+    \entry{boon_pluralistic_2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=af069b6064571df6a2b99f96755c386d}{%
+           family={Boon},
+           familyi={B\bibinitperiod},
+           given={Susan\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec65edae92956f3ab7ace5bdb9baf92d}{%
+           family={Watkins},
+           familyi={W\bibinitperiod},
+           given={Sarah\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b27c07e9b8ed261e1f5044ce6dcb7d69}{%
+           family={Sciban},
+           familyi={S\bibinitperiod},
+           given={Rowan\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c5b09e5cd64e7f1179a7957876e592b6}
+      \strng{fullhash}{3728878a60e583b54c5c68e5ec76ebdc}
+      \strng{fullhashraw}{3728878a60e583b54c5c68e5ec76ebdc}
+      \strng{bibnamehash}{3728878a60e583b54c5c68e5ec76ebdc}
+      \strng{authorbibnamehash}{3728878a60e583b54c5c68e5ec76ebdc}
+      \strng{authornamehash}{c5b09e5cd64e7f1179a7957876e592b6}
+      \strng{authorfullhash}{3728878a60e583b54c5c68e5ec76ebdc}
+      \strng{authorfullhashraw}{3728878a60e583b54c5c68e5ec76ebdc}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Two studies tested the hypothesis that beliefs about infidelity in dating relationships reflect pluralistic ignorance, a misperception in which people mistakenly believe that their own personal attitudes and behavior differ from others' when they do not. Consistent with pluralistic ignorance findings in other domains, undergraduates reported that the average university student (a) saw dating infidelity as more acceptable and (b) engaged in unfaithful acts more frequently than they themselves did. Neither type of infidelity (sexual, emotional, both sexual and emotional, or unspecified; Study 1, N = 176) nor motivated reasoning (i.e., defensiveness; Study 2, N = 359) moderated this pattern of results. Possible sources of misperceived norms concerning fidelity in dating relationships and the implications of such misperceptions are discussed.}
+      \field{issn}{1475-6811}
+      \field{journaltitle}{Personal Relationships}
+      \field{langid}{english}
+      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/pere.12044}
+      \field{number}{3}
+      \field{title}{Pluralistic ignorance and misperception of social norms concerning cheating in dating relationships}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{21}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{482\bibrangedash 496}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1111/pere.12044
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\zelph\\Zotero\\storage\\JRYY6BSZ\\Boon et al. - 2014 - Pluralistic ignorance and misperception of social norms concerning cheating in dating relationships.pdf:application/pdf;Snapshot:C\:\\Users\\zelph\\Zotero\\storage\\G8QFYKYT\\pere.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/pere.12044
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/pere.12044
+      \endverb
+    \endentry
+    \entry{borsari_drinking_2004}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6959df7356c6105fe65a7e3c4aeb7539}{%
+           family={Borsari},
+           familyi={B\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Journal of Alcohol}%
+        {Drug Education ({JADE})}%
+      }
+      \strng{namehash}{6959df7356c6105fe65a7e3c4aeb7539}
+      \strng{fullhash}{6959df7356c6105fe65a7e3c4aeb7539}
+      \strng{fullhashraw}{6959df7356c6105fe65a7e3c4aeb7539}
+      \strng{bibnamehash}{6959df7356c6105fe65a7e3c4aeb7539}
+      \strng{authorbibnamehash}{6959df7356c6105fe65a7e3c4aeb7539}
+      \strng{authornamehash}{6959df7356c6105fe65a7e3c4aeb7539}
+      \strng{authorfullhash}{6959df7356c6105fe65a7e3c4aeb7539}
+      \strng{authorfullhashraw}{6959df7356c6105fe65a7e3c4aeb7539}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Drinking games among American college students, although popular contribute significantly to excessive drinking and alcohol-related probl Drinking games appear to facilitate socialization, and are especially prevalent amongyounger students. This article reviews the qualitative and quantitative research on drinking games. Findings from qualitative studies suggest that students partidpate in drinking games to intoxicate themselves and others, to facilitate socialization, and for competition. Quantitative studies have identified motives for initiating and stopping drinking games, as well as age and gender differences in partidpation. Research finding highlight the importance of educating students about the risks assodated with playing drinking games. Spedfically, students should be alerted about the heightened risk of extreme intoxication and consequences that can result from playing drinking games. Women are at particular risk for experiendng sexual assault in the drinking game context. Alternative socialization opportunities should be provided to the students to countera the inherent sodal advantages of drinking game partidpation.}
+      \field{issn}{0090-1482}
+      \field{journaltitle}{Journal of Alcohol and Drug Education}
+      \field{number}{2}
+      \field{shorttitle}{{DRINKING} {GAMES}}
+      \field{title}{{DRINKING} {GAMES}: Drinking Games in the College Environment: A Review}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{48}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{29\bibrangedash 51}
+      \range{pages}{23}
+      \verb{file}
+      \verb JSTOR Full Text PDF:C\:\\Users\\zelph\\Zotero\\storage\\3SSRA9AB\\Borsari - 2004 - DRINKING GAMES Drinking Games in the College Environment A Review.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/45092356
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/45092356
+      \endverb
+    \endentry
+    \entry{ellemers_influence_1990}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=65b6caa21ee47870bf09fed00752121f}{%
+           family={Ellemers},
+           familyi={E\bibinitperiod},
+           given={Naomi},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=989bb7d67bf02d6ae6253effb0e48b99}{%
+           family={Knippenberg},
+           familyi={K\bibinitperiod},
+           given={Ad},
+           giveni={A\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=fd7be232f1a3f6ed8d264788864f4bf0}{%
+           family={Wilke},
+           familyi={W\bibinitperiod},
+           given={Henk},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0092a5e5c003331d5a13c44351610e58}
+      \strng{fullhash}{bf52e21a05a8841788fa6cf6812009c6}
+      \strng{fullhashraw}{bf52e21a05a8841788fa6cf6812009c6}
+      \strng{bibnamehash}{bf52e21a05a8841788fa6cf6812009c6}
+      \strng{authorbibnamehash}{bf52e21a05a8841788fa6cf6812009c6}
+      \strng{authornamehash}{0092a5e5c003331d5a13c44351610e58}
+      \strng{authorfullhash}{bf52e21a05a8841788fa6cf6812009c6}
+      \strng{authorfullhashraw}{bf52e21a05a8841788fa6cf6812009c6}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{According to social identity theory, striving of group members for enhancement of their social identity may be resolved through individual mobility (i.e. by dissociation from one's own group in order to gain membership of a higher status group), or by social change (i.e. by upgrading the status position of the in-group as a whole). Individual mobility may only be achieved when group boundaries are permeable; social change is only feasible when group status is unstable. This study investigates how these structural characteristics of the intergroup situation affect group members' preference for the individual mobility or social change strategy. In a laboratory setting subjects were given bogus feedback to induce differential levels of individual ability and group status. Additionally, the permeability of group boundaries and the stability of group status were manipulated. The main results are that, generally, members of high status groups show more satisfaction and in-group identification than members of low status groups. Permeable group boundaries apparently induce a tendency to strive for individual mobility, regardless of the in-group's status position. In relation to members of impermeable groups, members of groups with permeable boundaries show decreased in-group identification; there is evidence of (anticipatory) identification with the higher status group instead. A collective attempt at social change seems to be evoked when group status is unstable. In all groups with unstable status, members indicate their readiness to try to improve their group's status position. Moreover, members of low status groups with unstable status positions show relatively strong in-group identification, despite the lack of positive distinctiveness available to the in-group at the time.}
+      \field{issn}{2044-8309}
+      \field{journaltitle}{British Journal of Social Psychology}
+      \field{langid}{english}
+      \field{note}{\_eprint: https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1111/j.2044-8309.1990.tb00902.x}
+      \field{number}{3}
+      \field{title}{The influence of permeability of group boundaries and stability of group status on strategies of individual mobility and social change}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{volume}{29}
+      \field{year}{1990}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{233\bibrangedash 246}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1111/j.2044-8309.1990.tb00902.x
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\zelph\\Zotero\\storage\\6JA7WNEQ\\Ellemers et al. - 1990 - The influence of permeability of group boundaries and stability of group status on strategies of ind.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8309.1990.tb00902.x
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8309.1990.tb00902.x
+      \endverb
+    \endentry
+    \entry{galesic_sampling_2018}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c774748847f5e8d475f0cdcac4465ca8}{%
+           family={Galesic},
+           familyi={G\bibinitperiod},
+           given={Mirta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5aa8728802e118c65bfca50ebfe24a6}{%
+           family={Olsson},
+           familyi={O\bibinitperiod},
+           given={Henrik},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a7300dfcb057f39ff264da35ee58159}{%
+           family={Rieskamp},
+           familyi={R\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eefbf0f39f85497fa3e70073d8dd5ef9}
+      \strng{fullhash}{7edc526bbabfb71adb6ed7ea729fc3ff}
+      \strng{fullhashraw}{7edc526bbabfb71adb6ed7ea729fc3ff}
+      \strng{bibnamehash}{7edc526bbabfb71adb6ed7ea729fc3ff}
+      \strng{authorbibnamehash}{7edc526bbabfb71adb6ed7ea729fc3ff}
+      \strng{authornamehash}{eefbf0f39f85497fa3e70073d8dd5ef9}
+      \strng{authorfullhash}{7edc526bbabfb71adb6ed7ea729fc3ff}
+      \strng{authorfullhashraw}{7edc526bbabfb71adb6ed7ea729fc3ff}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Studies of social judgments have demonstrated a number of diverse phenomena that were so far difficult to explain within a single theoretical framework. Prominent examples are false consensus and false uniqueness, as well as self-enhancement and self-depreciation. Here we show that these seemingly complex phenomena can be a product of an interplay between basic cognitive processes and the structure of social and task environments. We propose and test a new process model of social judgment, the social sampling model ({SSM}), which provides a parsimonious quantitative account of different types of social judgments. In the {SSM}, judgments about characteristics of broader social environments are based on sampling of social instances from memory, where instances receive activation if they belong to a target reference class and have a particular characteristic. These sampling processes interact with the properties of social and task environments, including homophily, shapes of frequency distributions, and question formats. For example, in line with the model’s predictions we found that whether false consensus or false uniqueness will occur depends on the level of homophily in people’s social circles and on the way questions are asked. The model also explains some previously unaccounted-for patterns of selfenhancement and self-depreciation. People seem to be well informed about many characteristics of their immediate social circles, which in turn influence how they evaluate broader social environments and their position within them.}
+      \field{issn}{1939-1471, 0033-295X}
+      \field{journaltitle}{Psychological Review}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{3}
+      \field{shortjournal}{Psychological Review}
+      \field{title}{A sampling model of social judgment.}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{125}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{363\bibrangedash 390}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1037/rev0000096
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\zelph\\Zotero\\storage\\E25AXHAK\\Galesic et al. - 2018 - A sampling model of social judgment..pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.apa.org/doi/10.1037/rev0000096
+      \endverb
+      \verb{url}
+      \verb https://doi.apa.org/doi/10.1037/rev0000096
+      \endverb
+    \endentry
+    \entry{hegselmann_opinion_2005}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aaf95a640c24593ff5ad99b4da93bc3a}{%
+           family={Hegselmann},
+           familyi={H\bibinitperiod},
+           given={Rainer},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4647a365f0d2ce7fa24de0b8c50bc06a}{%
+           family={Krause},
+           familyi={K\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c11c172b875d96146e821e713b9f880f}
+      \strng{fullhash}{c11c172b875d96146e821e713b9f880f}
+      \strng{fullhashraw}{c11c172b875d96146e821e713b9f880f}
+      \strng{bibnamehash}{c11c172b875d96146e821e713b9f880f}
+      \strng{authorbibnamehash}{c11c172b875d96146e821e713b9f880f}
+      \strng{authornamehash}{c11c172b875d96146e821e713b9f880f}
+      \strng{authorfullhash}{c11c172b875d96146e821e713b9f880f}
+      \strng{authorfullhashraw}{c11c172b875d96146e821e713b9f880f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The paper treats opinion dynamics under bounded conﬁdence when agents employ, beside an arithmetic mean, means like a geometric mean, a power mean or a random mean in aggregating opinions. The different kinds of collective dynamics resulting from these various ways of averaging are studied and compared by simulations. Particular attention is given to the random mean which is a new concept introduced in this paper. All those concrete means are just particular cases of a partial abstract mean, which also is a new concept. This comprehensive concept of averaging opinions is investigated also analytically and it is shown in particular, that the dynamics driven by it always stabilizes in a certain pattern of opinions.}
+      \field{issn}{0927-7099, 1572-9974}
+      \field{journaltitle}{Computational Economics}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{4}
+      \field{shortjournal}{Comput Econ}
+      \field{title}{Opinion Dynamics Driven by Various Ways of Averaging}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{25}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{381\bibrangedash 405}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1007/s10614-005-6296-3
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\zelph\\Zotero\\storage\\YEPIZ9UA\\Hegselmann and Krause - 2005 - Opinion Dynamics Driven by Various Ways of Averaging.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s10614-005-6296-3
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s10614-005-6296-3
+      \endverb
+    \endentry
+    \entry{hornsey_social_2008}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3e6f88d5b14f9bb51abd9c575ccd0b86}{%
+           family={Hornsey},
+           familyi={H\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3e6f88d5b14f9bb51abd9c575ccd0b86}
+      \strng{fullhash}{3e6f88d5b14f9bb51abd9c575ccd0b86}
+      \strng{fullhashraw}{3e6f88d5b14f9bb51abd9c575ccd0b86}
+      \strng{bibnamehash}{3e6f88d5b14f9bb51abd9c575ccd0b86}
+      \strng{authorbibnamehash}{3e6f88d5b14f9bb51abd9c575ccd0b86}
+      \strng{authornamehash}{3e6f88d5b14f9bb51abd9c575ccd0b86}
+      \strng{authorfullhash}{3e6f88d5b14f9bb51abd9c575ccd0b86}
+      \strng{authorfullhashraw}{3e6f88d5b14f9bb51abd9c575ccd0b86}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract The social identity approach (comprising social identity theory and self‐categorization theory) is a highly influential theory of group processes and intergroup relations, having redefined how we think about numerous group‐mediated phenomena. Since its emergence in the early 1970s, the social identity approach has been elaborated, re‐interpreted, and occasionally misinterpreted. The goal of this paper is to provide a critical, historical review of how thinking and research within the social identity approach has evolved. The core principles of the theories are reviewed and discussed, and their effect on the field assessed. Strengths and limitations of the approach are discussed, with an eye to future developments.}
+      \field{issn}{1751-9004, 1751-9004}
+      \field{journaltitle}{Social and Personality Psychology Compass}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Social \&amp; Personality Psych}
+      \field{shorttitle}{Social Identity Theory and Self‐categorization Theory}
+      \field{title}{Social Identity Theory and Self‐categorization Theory: A Historical Review}
+      \field{urlday}{14}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{volume}{2}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{204\bibrangedash 222}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1111/j.1751-9004.2007.00066.x
+      \endverb
+      \verb{urlraw}
+      \verb https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2007.00066.x
+      \endverb
+      \verb{url}
+      \verb https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2007.00066.x
+      \endverb
+    \endentry
+    \entry{hou_opinion_2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=20eac2465e3a3afb64f110b068ffa2c1}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f268a5ea40357dfeab1fa53e4512876}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wenshan},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ab4475e12e336c41b13ac57cc1545a2}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Mingyue},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b65746c53442de625976454efdd6a9d7}
+      \strng{fullhash}{7b15e37f726a533f4cb14a98542b36a8}
+      \strng{fullhashraw}{7b15e37f726a533f4cb14a98542b36a8}
+      \strng{bibnamehash}{7b15e37f726a533f4cb14a98542b36a8}
+      \strng{authorbibnamehash}{7b15e37f726a533f4cb14a98542b36a8}
+      \strng{authornamehash}{b65746c53442de625976454efdd6a9d7}
+      \strng{authorfullhash}{7b15e37f726a533f4cb14a98542b36a8}
+      \strng{authorfullhashraw}{7b15e37f726a533f4cb14a98542b36a8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In a social network, an individual may express an opinion against his/her own private opinion. Moreover, during the evolution of opinion dynamics, an individual may only accept parts of opinions that are similar to his/her own opinion. These phenomenons bring new challenges to the study of the opinion dynamics. In this paper, we propose a modified expressed-private-opinion ({MEPO}) model with bounded confidence. In the {MEPO} model, two categories of neighborhood relationships, namely, the communication neighbor and the opinion neighbor, are proposed. More specifically, the communication neighbor represents the information flow among individuals while the opinion neighbor, which is a subset of the communication neighbor, implies whether or not the corresponding opinions will be accepted to be incorporated into the individual’s opinion updating process. Furthermore, the scope of the opinion neighbor is determined by the confidence level such that the whole group is divided into open-minded, moderateminded, and closed-minded individuals accordingly. As a result, an individual’s private opinion in the proposed {MEPO} model evolves by his/her own private opinion and the stubbornness value, and also the impacts from the expressed opinions of the opinion neighbors.}
+      \field{issn}{03784371}
+      \field{journaltitle}{Physica A: Statistical Mechanics and its Applications}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{shortjournal}{Physica A: Statistical Mechanics and its Applications}
+      \field{title}{Opinion dynamics in modified expressed and private model with bounded confidence}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{574}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{125968}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.physa.2021.125968
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\zelph\\Zotero\\storage\\Y6PUGUVF\\Hou et al. - 2021 - Opinion dynamics in modified expressed and private model with bounded confidence.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378437121002405
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378437121002405
+      \endverb
+    \endentry
+    \entry{huang_novel_2014}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d76e3935998cb587aa37c3bf823edc0b}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Chung-Yuan},
+           giveni={C\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ba419e1235cbf1e27e4e7bd02c4344d}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Tzai-Hung},
+           giveni={T\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fa3eba7ed46677d620ed1910336fcc52}
+      \strng{fullhash}{fa3eba7ed46677d620ed1910336fcc52}
+      \strng{fullhashraw}{fa3eba7ed46677d620ed1910336fcc52}
+      \strng{bibnamehash}{fa3eba7ed46677d620ed1910336fcc52}
+      \strng{authorbibnamehash}{fa3eba7ed46677d620ed1910336fcc52}
+      \strng{authornamehash}{fa3eba7ed46677d620ed1910336fcc52}
+      \strng{authorfullhash}{fa3eba7ed46677d620ed1910336fcc52}
+      \strng{authorfullhashraw}{fa3eba7ed46677d620ed1910336fcc52}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1460-7425}
+      \field{journaltitle}{Journal of Artificial Societies and Social Simulation}
+      \field{number}{3}
+      \field{shortjournal}{{JASSS}}
+      \field{title}{A Novel Private Attitude and Public Opinion Dynamics Model for Simulating Pluralistic Ignorance and Minority Influence}
+      \field{volume}{17}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{8}
+      \range{pages}{1}
+      \verb{file}
+      \verb text/html Attachment:C\:\\Users\\zelph\\Zotero\\storage\\PJPHEA2N\\8.html:text/html
+      \endverb
+    \endentry
+    \entry{kawamura_pluralistic_2024}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c6cd8aea8515e012bf5d543ff611c7b1}{%
+           family={Kawamura},
+           familyi={K\bibinitperiod},
+           given={Yuta},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4be6495829acca443b05ad3fe7e9a67a}{%
+           family={Totake},
+           familyi={T\bibinitperiod},
+           given={Kanatsu},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{116f6fb9f5342569877c93fa35a02d44}
+      \strng{fullhash}{116f6fb9f5342569877c93fa35a02d44}
+      \strng{fullhashraw}{116f6fb9f5342569877c93fa35a02d44}
+      \strng{bibnamehash}{116f6fb9f5342569877c93fa35a02d44}
+      \strng{authorbibnamehash}{116f6fb9f5342569877c93fa35a02d44}
+      \strng{authornamehash}{116f6fb9f5342569877c93fa35a02d44}
+      \strng{authorfullhash}{116f6fb9f5342569877c93fa35a02d44}
+      \strng{authorfullhashraw}{116f6fb9f5342569877c93fa35a02d44}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In recent times, the circumstances surrounding childcare leave in Japan have undergone substantial change. The present study aimed to replicate the study by Miyajima and Yamaguchi (2017), who demonstrated that pluralistic ignorance inhibits paternity leave. Our preregistered replication survey, which comprised 222 employed males, found that participants recognized others' attitudes toward paternity leave as more negative than they actually were. This result indicates that, as in the previous study, pluralistic ignorance about paternity leave still exists. However, unlike Miyajima and Yamaguchi's (2017) work, pluralistic ignorance did not inhibit participants' willingness to take paternity leave. The potential causes of these differences are discussed.}
+      \field{issn}{1468-5884}
+      \field{issue}{n/a}
+      \field{journaltitle}{Japanese Psychological Research}
+      \field{langid}{english}
+      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/jpr.12507}
+      \field{shorttitle}{Pluralistic Ignorance did not Prevent Paternity Leave in Japan in December 2021}
+      \field{title}{Pluralistic Ignorance did not Prevent Paternity Leave in {Japan} in {December} 2021: A Replication Study}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1111/jpr.12507
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\zelph\\Zotero\\storage\\U46HUTQD\\Kawamura and Totake - Pluralistic Ignorance did not Prevent Paternity Leave in Japan in December 2021 A Replication Study.pdf:application/pdf;Snapshot:C\:\\Users\\zelph\\Zotero\\storage\\IDSJ335Z\\jpr.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jpr.12507
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jpr.12507
+      \endverb
+      \keyw{social change,pluralistic ignorance,gender role norm,paternity leave,social norm}
+    \endentry
+    \entry{kitts_egocentric_2003}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0977cec36808044e8bfaf6540faedc8b}{%
+           family={Kitts},
+           familyi={K\bibinitperiod},
+           given={James\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {[Sage Publications, Inc., American Sociological Association]}%
+      }
+      \strng{namehash}{0977cec36808044e8bfaf6540faedc8b}
+      \strng{fullhash}{0977cec36808044e8bfaf6540faedc8b}
+      \strng{fullhashraw}{0977cec36808044e8bfaf6540faedc8b}
+      \strng{bibnamehash}{0977cec36808044e8bfaf6540faedc8b}
+      \strng{authorbibnamehash}{0977cec36808044e8bfaf6540faedc8b}
+      \strng{authornamehash}{0977cec36808044e8bfaf6540faedc8b}
+      \strng{authorfullhash}{0977cec36808044e8bfaf6540faedc8b}
+      \strng{authorfullhashraw}{0977cec36808044e8bfaf6540faedc8b}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper reports on biases in group members' inferences about collective support for group norms. Whereas theories of "looking glass perception" suggest a tendency to project our own preferences onto others, this paper shows that observed biases simply may reflect flows of information through social networks. Members conceal counternormative behavior and disclose it selectively within confidence relations. This process yields structured inference, in which members' inferences depend on their social ties, and also pluralistic ignorance, in which members generally overestimate collective support for existing norms. These predictions are evaluated in a field study of perceived normative consensus in five vegetarian housing cooperatives. Results fail to support the "intrinsic bias" argument, but demonstrate these forms of "information bias."}
+      \field{issn}{0190-2725}
+      \field{journaltitle}{Social Psychology Quarterly}
+      \field{number}{3}
+      \field{shorttitle}{Egocentric Bias or Information Management?}
+      \field{title}{Egocentric Bias or Information Management? Selective Disclosure and the Social Roots of Norm Misperception}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{66}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{222\bibrangedash 237}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.2307/1519823
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\zelph\\Zotero\\storage\\IP5I5UNK\\Kitts - 2003 - Egocentric Bias or Information Management Selective Disclosure and the Social Roots of Norm Misperc.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/1519823
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/1519823
+      \endverb
+    \endentry
+    \entry{manfredi_private-public_2020}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f0b04e31f85136e55c5ff41359cdbcb4}{%
+           family={Manfredi},
+           familyi={M\bibinitperiod},
+           given={Ren},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2dd49a0e905bd66298e6796747ad4400}{%
+           family={Guazzini},
+           familyi={G\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b83c4576348bfa26574940a4258d69dc}{%
+           family={Roos},
+           familyi={R\bibinitperiod},
+           given={Carla\bibnamedelima Anne},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60945b3e9c61d51acd33666e9c86f0dc}{%
+           family={Postmes},
+           familyi={P\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=004c9f4df486b93a555c6a06ccd4b1c8}{%
+           family={Koudenburg},
+           familyi={K\bibinitperiod},
+           given={Namkje},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{338d8e7cd72477e0e7aa343846651895}
+      \strng{fullhash}{d1cea661065e6cf661bb372f8ef56e5e}
+      \strng{fullhashraw}{d1cea661065e6cf661bb372f8ef56e5e}
+      \strng{bibnamehash}{d1cea661065e6cf661bb372f8ef56e5e}
+      \strng{authorbibnamehash}{d1cea661065e6cf661bb372f8ef56e5e}
+      \strng{authornamehash}{338d8e7cd72477e0e7aa343846651895}
+      \strng{authorfullhash}{d1cea661065e6cf661bb372f8ef56e5e}
+      \strng{authorfullhashraw}{d1cea661065e6cf661bb372f8ef56e5e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In many Western societies there are rising concerns about increasing polarization in public debate. However, statistics on private attitudes paint a different picture: the average attitudes in societies are more moderate and remain rather stable over time. The present paper presents an agent-based model of how such discrepancies between public opinion and private attitudes develop at the scale of micro-societies. Based on social psychological theorizing, the model distinguishes between two types of agents: a) those seeking to gain or maintain a good reputation and status, and b) those seeking to promote group harmony by reaching consensus. We characterized these different types of agents by different decision rules for either voicing their opinion or remaining silent, based on the behavior of their proximal network. Results of the model simulations show that even when the private attitudes of the agents are held constant, publicly expressed opinions can oscillate and (depending on the reputational concerns of individual actors) situations can occur in which minorities as well as majorities are silenced. We conclude that the macro-level consequences of micro-level decisions to either voice an opinion or remain silent provide a foundation for better understanding how public opinions are shaped. Moreover, we discuss the conditions under which public opinion could be considered a good representation of private attitudes in a society.}
+      \field{day}{25}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{{PLOS} {ONE}}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{11}
+      \field{shortjournal}{{PLOS} {ONE}}
+      \field{title}{Private-Public Opinion Discrepancy}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{15}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{e0242148}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0242148
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\zelph\\Zotero\\storage\\4Y63YBZ4\\Manfredi et al. - 2020 - Private-Public Opinion Discrepancy.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242148
+      \endverb
+      \verb{url}
+      \verb https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242148
+      \endverb
+      \keyw{Agent-based modeling,Social networks,Social psychology,Psychological attitudes,Behavior,Simulation and modeling,Social systems,System stability}
+    \endentry
+    \entry{miyajima_i_2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=faade0c55db111f2cdfcdcc4e002f1ed}{%
+           family={Miyajima},
+           familyi={M\bibinitperiod},
+           given={Takeru},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7970543da0ed666c87d7af191bfb42a1}{%
+           family={Yamaguchi},
+           familyi={Y\bibinitperiod},
+           given={Hiroyuki},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8f4d39a3e1962ee93224b0f61d5ce2c2}
+      \strng{fullhash}{8f4d39a3e1962ee93224b0f61d5ce2c2}
+      \strng{fullhashraw}{8f4d39a3e1962ee93224b0f61d5ce2c2}
+      \strng{bibnamehash}{8f4d39a3e1962ee93224b0f61d5ce2c2}
+      \strng{authorbibnamehash}{8f4d39a3e1962ee93224b0f61d5ce2c2}
+      \strng{authornamehash}{8f4d39a3e1962ee93224b0f61d5ce2c2}
+      \strng{authorfullhash}{8f4d39a3e1962ee93224b0f61d5ce2c2}
+      \strng{authorfullhashraw}{8f4d39a3e1962ee93224b0f61d5ce2c2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Psychology}
+      \field{title}{I want to but {I} won't: Pluralistic ignorance inhibits intentions to take paternity leave in {Japan}}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{8}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1508}
+      \range{pages}{1}
+      \verb{file}
+      \verb Frontiers | I Want to but I Won't\: Pluralistic Ignorance Inhibits Intentions to Take Paternity Leave in Japan:C\:\\Users\\zelph\\Zotero\\storage\\UNBWTQF4\\full.html:text/html;PDF:C\:\\Users\\zelph\\Zotero\\storage\\LNK5SS9Y\\Frontiers I Want to but I Won't Pluralistic Ignorance Inhibits Intentions to Take Paternity Leave.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3389/fpsyg.2017.01508
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3389/fpsyg.2017.01508
+      \endverb
+    \endentry
+    \entry{prentice_pluralistic_1993}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a896b656a64c2d6e9d60fc3ae9b8a584}{%
+           family={Prentice},
+           familyi={P\bibinitperiod},
+           given={Deborah\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4473c003740bc641e8df07a151cfa0e}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Dale\bibnamedelima T},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{05566d6431f6ba1e74a09aa3727efe85}
+      \strng{fullhash}{05566d6431f6ba1e74a09aa3727efe85}
+      \strng{fullhashraw}{05566d6431f6ba1e74a09aa3727efe85}
+      \strng{bibnamehash}{05566d6431f6ba1e74a09aa3727efe85}
+      \strng{authorbibnamehash}{05566d6431f6ba1e74a09aa3727efe85}
+      \strng{authornamehash}{05566d6431f6ba1e74a09aa3727efe85}
+      \strng{authorfullhash}{05566d6431f6ba1e74a09aa3727efe85}
+      \strng{authorfullhashraw}{05566d6431f6ba1e74a09aa3727efe85}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Personality and Social Psychology}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{title}{Pluralistic Ignorance and Alcohol Use on Campus: Some Consequences of Misperceiving the Social Norm}
+      \field{volume}{64}
+      \field{year}{1993}
+      \field{dateera}{ce}
+      \field{pages}{243\bibrangedash 256}
+      \range{pages}{14}
+      \verb{file}
+      \verb PDF:C\:\\Users\\zelph\\Zotero\\storage\\SKG7CLN8\\Prentice and Miller - Pluralistic Ignorance and Alcohol Use on Campus Some Consequences of Misperceiving the Social Norm.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{robertson_inside_2024}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d22c0c9b1114b77fc8966d72a79af52c}{%
+           family={Robertson},
+           familyi={R\bibinitperiod},
+           given={Claire\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=404823d5a39e048b5fa6b35b1d61930b}{%
+           family={Rosario},
+           familyi={R\bibinitperiod},
+           given={Kareena\bibnamedelima S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0,
+           prefix={del},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c6909013f31864616da47b2bc555e9bc}{%
+           family={Van\bibnamedelima Bavel},
+           familyi={V\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Jay\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{27f539deb38df5aad6134852e3127e55}
+      \strng{fullhash}{17391e7cf487ee1353b17416b2c7f2e8}
+      \strng{fullhashraw}{17391e7cf487ee1353b17416b2c7f2e8}
+      \strng{bibnamehash}{17391e7cf487ee1353b17416b2c7f2e8}
+      \strng{authorbibnamehash}{17391e7cf487ee1353b17416b2c7f2e8}
+      \strng{authornamehash}{27f539deb38df5aad6134852e3127e55}
+      \strng{authorfullhash}{17391e7cf487ee1353b17416b2c7f2e8}
+      \strng{authorfullhashraw}{17391e7cf487ee1353b17416b2c7f2e8}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The current paper explains how modern technology interacts with human psychology to create a funhouse mirror version of social norms. We argue that norms generated on social media often tend to be more extreme than offline norms which can create false perceptions of norms–known as pluralistic ignorance. We integrate research from political science, psychology, and cognitive science to explain how online environments become saturated with false norms, who is misrepresented online, what happens when online norms deviate from offline norms, where people are affected online, and why expressions are more extreme online. We provide a framework for understanding and correcting for the distortions in our perceptions of social norms that are created by social media platforms. We argue the funhouse mirror nature of social media can be pernicious for individuals and society by increasing pluralistic ignorance and false polarization.}
+      \field{day}{1}
+      \field{issn}{2352-250X}
+      \field{journaltitle}{Current Opinion in Psychology}
+      \field{month}{12}
+      \field{shortjournal}{Current Opinion in Psychology}
+      \field{shorttitle}{Inside the funhouse mirror factory}
+      \field{title}{Inside the funhouse mirror factory: How social media distorts perceptions of norms}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{volume}{60}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{101918}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.copsyc.2024.101918
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:C\:\\Users\\zelph\\Zotero\\storage\\8M88LTN3\\S2352250X24001313.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352250X24001313
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352250X24001313
+      \endverb
+    \endentry
+    \entry{roy_opinion_2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fdf9671cc3ff75300e75d371ef507fac}{%
+           family={Roy},
+           familyi={R\bibinitperiod},
+           given={Subhadeep},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24f07b09d59a7cf860506554e6eed830}{%
+           family={Biswas},
+           familyi={B\bibinitperiod},
+           given={Soumyajyoti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bf19f837ffc668fe83520850725cb06c}
+      \strng{fullhash}{bf19f837ffc668fe83520850725cb06c}
+      \strng{fullhashraw}{bf19f837ffc668fe83520850725cb06c}
+      \strng{bibnamehash}{bf19f837ffc668fe83520850725cb06c}
+      \strng{authorbibnamehash}{bf19f837ffc668fe83520850725cb06c}
+      \strng{authornamehash}{bf19f837ffc668fe83520850725cb06c}
+      \strng{authorfullhash}{bf19f837ffc668fe83520850725cb06c}
+      \strng{authorfullhashraw}{bf19f837ffc668fe83520850725cb06c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We study here the dynamics of opinion formation in a society where we take into account the internally held beliefs and externally expressed opinions of the individuals, which are not necessarily the same at all times. While these two components can influence one another, their difference, both in dynamics and in the steady state, poses interesting scenarios in terms of the transition to consensus in the society and characterizations of such consensus. Here we study this public and private opinion dynamics and the critical behaviour of the consensus forming transitions, using a kinetic exchange model.This article is part of the theme issue ‘Kinetic exchange models of societies and economies’.}
+      \field{day}{11}
+      \field{issn}{1364-503X}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences}
+      \field{month}{4}
+      \field{number}{2224}
+      \field{shortjournal}{Philos Trans A Math Phys Eng Sci}
+      \field{shorttitle}{Opinion dynamics}
+      \field{title}{Opinion dynamics: public and private}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{380}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{20210169}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1098/rsta.2021.0169
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\zelph\\Zotero\\storage\\9U9MCYB9\\Roy and Biswas - 2022 - Opinion dynamics public and private.pdf:application/pdf;Snapshot:C\:\\Users\\zelph\\Zotero\\storage\\CXV9XT69\\rsta.2021.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1098/rsta.2021.0169
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1098/rsta.2021.0169
+      \endverb
+    \endentry
+    \entry{salzarulo_continuous_2006}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f45944ee1ff53aef14c03468baf2702c}{%
+           family={Salzarulo},
+           familyi={S\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f45944ee1ff53aef14c03468baf2702c}
+      \strng{fullhash}{f45944ee1ff53aef14c03468baf2702c}
+      \strng{fullhashraw}{f45944ee1ff53aef14c03468baf2702c}
+      \strng{bibnamehash}{f45944ee1ff53aef14c03468baf2702c}
+      \strng{authorbibnamehash}{f45944ee1ff53aef14c03468baf2702c}
+      \strng{authornamehash}{f45944ee1ff53aef14c03468baf2702c}
+      \strng{authorfullhash}{f45944ee1ff53aef14c03468baf2702c}
+      \strng{authorfullhashraw}{f45944ee1ff53aef14c03468baf2702c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We propose a new continuous opinion dynamics model inspired by social psychology. It is based on a central assumption of self-categorization theory called principle of meta-contrast. We study the behaviour of the model for several network interactions and show that, in particular, consensus, polarization or extremism are possible outcomes, even without explicit introduction of extremist agents. The model is compared to other existing opinion dynamics models.}
+      \field{day}{31}
+      \field{issn}{1460-7425}
+      \field{journaltitle}{Journal of Artificial Societies and Social Simulation}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{A Continuous Opinion Dynamics Model Based on the Principle of Meta-Contrast}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{9}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{13}
+      \range{pages}{1}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\zelph\\Zotero\\storage\\CHJKRN66\\13.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jasss.org/9/1/13.html
+      \endverb
+      \verb{url}
+      \verb https://www.jasss.org/9/1/13.html
+      \endverb
+    \endentry
+    \entry{segrist_yeah_2007}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=efad2c1b1ec0db315e06133b73ecdfad}{%
+           family={Segrist},
+           familyi={S\bibinitperiod},
+           given={Dan\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19b33f89ca502236399b0c1730389e82}{%
+           family={Corcoran},
+           familyi={C\bibinitperiod},
+           given={Kevin\bibnamedelima J},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af0a2e021b6112af2fa3a985a2a6cb54}{%
+           family={Jordan-Fleming},
+           familyi={J\bibinithyphendelim F\bibinitperiod},
+           given={Mary\bibnamedelima Kay},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6c984d769f7549740d8da9fbcd68871}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4997cfdde6eafe3667749d51719c22ce}
+      \strng{fullhash}{0588209dd6bb35b028152da2d4c2179f}
+      \strng{fullhashraw}{0588209dd6bb35b028152da2d4c2179f}
+      \strng{bibnamehash}{0588209dd6bb35b028152da2d4c2179f}
+      \strng{authorbibnamehash}{0588209dd6bb35b028152da2d4c2179f}
+      \strng{authornamehash}{4997cfdde6eafe3667749d51719c22ce}
+      \strng{authorfullhash}{0588209dd6bb35b028152da2d4c2179f}
+      \strng{authorfullhashraw}{0588209dd6bb35b028152da2d4c2179f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{North American Journal of Psychology}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{title}{Yeah, {I} drink ... but not as much as other guys: the majority fallacy among male adolescents}
+      \field{volume}{9}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{7}
+      \range{pages}{1}
+      \verb{file}
+      \verb Segrist et al. - Yeah, I drink ... but not as much as other guys t.pdf:C\:\\Users\\zelph\\Zotero\\storage\\Y746JPMH\\Segrist et al. - Yeah, I drink ... but not as much as other guys t.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{shamir_pluralistic_1997}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=393459dde2ad175832d21f4d4aae5546}{%
+           family={Shamir},
+           familyi={S\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=6f27a4c42f91974be63a16b8dc1ac0ca}{%
+           family={Shamir},
+           familyi={S\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {[Oxford University Press, American Association for Public Opinion Research]}%
+      }
+      \strng{namehash}{1759dbfd5ee7c2ccb2030af8f1f5fa72}
+      \strng{fullhash}{1759dbfd5ee7c2ccb2030af8f1f5fa72}
+      \strng{fullhashraw}{1759dbfd5ee7c2ccb2030af8f1f5fa72}
+      \strng{bibnamehash}{1759dbfd5ee7c2ccb2030af8f1f5fa72}
+      \strng{authorbibnamehash}{1759dbfd5ee7c2ccb2030af8f1f5fa72}
+      \strng{authornamehash}{1759dbfd5ee7c2ccb2030af8f1f5fa72}
+      \strng{authorfullhash}{1759dbfd5ee7c2ccb2030af8f1f5fa72}
+      \strng{authorfullhashraw}{1759dbfd5ee7c2ccb2030af8f1f5fa72}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Pluralistic ignorance is a well-documented phenomenon in public opinion research. We adopt the social perspective on pluralistic ignorance and focus on the information environment for an explanation of it. Regarding pluralistic ignorance as a problem of information, we consider its implications in terms of cross-sectional variation as well as over time. The empirical analysis combines a comparative study of issues and analysis over time of gender issues and the question of returning territories for peace in Israeli public opinion.}
+      \field{issn}{0033-362X}
+      \field{journaltitle}{The Public Opinion Quarterly}
+      \field{number}{2}
+      \field{shorttitle}{Pluralistic Ignorance Across Issues and Over Time}
+      \field{title}{Pluralistic Ignorance Across Issues and Over Time: Information Cues and Biases}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{61}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{227\bibrangedash 260}
+      \range{pages}{34}
+      \verb{file}
+      \verb PDF:C\:\\Users\\zelph\\Zotero\\storage\\NXJWCUFY\\Shamir and Shamir - 1997 - Pluralistic Ignorance Across Issues and Over Time Information Cues and Biases.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/2749551
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/2749551
+      \endverb
+    \endentry
+    \entry{sparkman_americans_2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d6bb52b8096339f4f5eb3c7ecf5aa1b7}{%
+           family={Sparkman},
+           familyi={S\bibinitperiod},
+           given={Gregg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=470aad3c829c7290915a92d1c5cd5410}{%
+           family={Geiger},
+           familyi={G\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86c96845d5fadba6351f48d53834d9b4}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Elke\bibnamedelima U.},
+           giveni={E\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cc0fea82cfd12e645490f5b0eb561a8d}
+      \strng{fullhash}{c96b673d6d75515119b5b95d1638f506}
+      \strng{fullhashraw}{c96b673d6d75515119b5b95d1638f506}
+      \strng{bibnamehash}{c96b673d6d75515119b5b95d1638f506}
+      \strng{authorbibnamehash}{c96b673d6d75515119b5b95d1638f506}
+      \strng{authornamehash}{cc0fea82cfd12e645490f5b0eb561a8d}
+      \strng{authorfullhash}{c96b673d6d75515119b5b95d1638f506}
+      \strng{authorfullhashraw}{c96b673d6d75515119b5b95d1638f506}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Pluralistic ignorance—a shared misperception of how others think or behave—poses a challenge to collective action on problems like climate change. Using a representative sample of Americans ( N  = 6119), we examine whether Americans accurately perceive national concern about climate change and support for mitigating policies. We find a form of pluralistic ignorance that we describe as a false social reality : a near universal perception of public opinion that is the opposite of true public sentiment. Specifically, 80–90\% of Americans underestimate the prevalence of support for major climate change mitigation policies and climate concern. While 66–80\% Americans support these policies, Americans estimate the prevalence to only be between 37–43\% on average. Thus, supporters of climate policies outnumber opponents two to one, while Americans falsely perceive nearly the opposite to be true. Further, Americans in every state and every assessed demographic underestimate support across all polices tested. Preliminary evidence suggests three sources of these misperceptions: (i) consistent with a false consensus effect, respondents who support these policies less (conservatives) underestimate support by a greater degree; controlling for one’s own personal politics, (ii) exposure to more conservative local norms and (iii) consuming conservative news correspond to greater misperceptions.}
+      \field{day}{23}
+      \field{issn}{2041-1723}
+      \field{journaltitle}{Nature Communications}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{1}
+      \field{shortjournal}{Nat Commun}
+      \field{title}{Americans experience a false social reality by underestimating popular climate policy support by nearly half}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{13}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{4779}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41467-022-32412-y
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\zelph\\Zotero\\storage\\GQ5LPYMN\\Sparkman et al. - 2022 - Americans experience a false social reality by underestimating popular climate policy support by nea.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41467-022-32412-y
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41467-022-32412-y
+      \endverb
+    \endentry
+    \entry{turner_rediscovering_1987}{book}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=acf7ef4679cf875c0639e221dd5ffff0}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={John\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c602698e1db465219fc074849f319d7}{%
+           family={Hogg},
+           familyi={H\bibinitperiod},
+           given={Michael\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=311633e527adaecb6bf25d97e248851d}{%
+           family={Oakes},
+           familyi={O\bibinitperiod},
+           given={Penelope\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63d82466acdb457ae7a516af4dbb06a7}{%
+           family={Reicher},
+           familyi={R\bibinitperiod},
+           given={Stephen\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9cca47e012889b080f8603636c221396}{%
+           family={Wetherell},
+           familyi={W\bibinitperiod},
+           given={Margaret\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, {MA}, {US}}%
+      }
+      \list{publisher}{1}{%
+        {Basil Blackwell}%
+      }
+      \strng{namehash}{046115903dba7f1962455f6a0b90337d}
+      \strng{fullhash}{8ead2ada93fca46f65e7fcec75a4ecf5}
+      \strng{fullhashraw}{8ead2ada93fca46f65e7fcec75a4ecf5}
+      \strng{bibnamehash}{8ead2ada93fca46f65e7fcec75a4ecf5}
+      \strng{authorbibnamehash}{8ead2ada93fca46f65e7fcec75a4ecf5}
+      \strng{authornamehash}{046115903dba7f1962455f6a0b90337d}
+      \strng{authorfullhash}{8ead2ada93fca46f65e7fcec75a4ecf5}
+      \strng{authorfullhashraw}{8ead2ada93fca46f65e7fcec75a4ecf5}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This book presents a new theory of the social group which seeks to explain how individuals become unified into a group and capable of collective behaviour. The book summarizes classic psychological theories of the group, describes and explains the important effects of group membership on social behaviour, outlines self-categorization theory in full and shows how the general perspective has been applied in research on group formation and cohesion, social influence, the polarization of social attitudes, crowd psychology and social stereotyping. The theory emerges as a fundamental new contribution to social psychology. ({PsycINFO} Database Record (c) 2016 {APA}, all rights reserved)}
+      \field{isbn}{978-0-631-14806-7}
+      \field{note}{Pages: x, 239}
+      \field{pagetotal}{x, 239}
+      \field{series}{Rediscovering the social group: A self-categorization theory}
+      \field{shorttitle}{Rediscovering the social group}
+      \field{title}{Rediscovering the social group: A self-categorization theory}
+      \field{year}{1987}
+      \field{dateera}{ce}
+      \keyw{Social Identity,Social Behavior,Social Psychology,Social Influences,Collective Behavior,Social Groups,Group Cohesion}
+    \endentry
+    \entry{ye_influence_2019}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=fdd309e27948d942046d633747cc419b}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Mengbin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9185678d9316e113769b7762ef1f6b7b}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Yuzhen},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c07180bb78e57508c4d9cf27c5be09a8}{%
+           family={Govaert},
+           familyi={G\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8a4070f47356ebf747da5eda23eeddd}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Brian\bibnamedelimb D.\bibnamedelimi O.},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b420cdd284fce534ac179e987a208563}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Ming},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bc8bb36490fca621eb8287633cbeb010}
+      \strng{fullhash}{2f4aaf527c69e01632640efa1ac4ab44}
+      \strng{fullhashraw}{2f4aaf527c69e01632640efa1ac4ab44}
+      \strng{bibnamehash}{2f4aaf527c69e01632640efa1ac4ab44}
+      \strng{authorbibnamehash}{2f4aaf527c69e01632640efa1ac4ab44}
+      \strng{authornamehash}{bc8bb36490fca621eb8287633cbeb010}
+      \strng{authorfullhash}{2f4aaf527c69e01632640efa1ac4ab44}
+      \strng{authorfullhashraw}{2f4aaf527c69e01632640efa1ac4ab44}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In many social situations, a discrepancy arises between an individual’s private and expressed opinions on a given topic. Motivated by Solomon Asch’s seminal experiments on social conformity and other related socio-psychological works, we propose a novel opinion dynamics model to study how such a discrepancy can arise in general social networks of interpersonal influence. Each individual in the network has both a private and an expressed opinion: an individual’s private opinion evolves under social influence from the expressed opinions of the individual’s neighbours, while the individual determines his or her expressed opinion under a pressure to conform to the average expressed opinion of his or her neighbours, termed the local public opinion. General conditions on the network that guarantee exponentially fast convergence of the opinions to a limit are obtained. Further analysis of the limit yields several semi-quantitative conclusions, which have insightful social interpretations, including the establishing of conditions that ensure every individual in the network has such a discrepancy. Last, we show the generality and validity of the model by using it to explain and predict the results of Solomon Asch’s seminal experiments.}
+      \field{day}{1}
+      \field{issn}{0005-1098}
+      \field{journaltitle}{Automatica}
+      \field{month}{9}
+      \field{shortjournal}{Automatica}
+      \field{title}{An influence network model to study discrepancies in expressed and private opinions}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{107}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{371\bibrangedash 381}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.automatica.2019.05.059
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:C\:\\Users\\zelph\\Zotero\\storage\\2MNKAC5U\\S0005109819302870.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0005109819302870
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0005109819302870
+      \endverb
+      \keyw{Networks,Agent-based model,Opinion dynamics,Social conformity,Social network analysis}
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{ahler_parties_2018}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c4a2b5c16e83ef4b2d20430b4ba81b72}{%
+           family={Ahler},
+           familyi={A\bibinitperiod},
+           given={Douglas\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b123810a6b3614cfb9e60a8b9fcbcc9}{%
+           family={Sood},
+           familyi={S\bibinitperiod},
+           given={Gaurav},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{60942a3d6fd56939b59613a0ce54fb5e}
+      \strng{fullhash}{60942a3d6fd56939b59613a0ce54fb5e}
+      \strng{fullhashraw}{60942a3d6fd56939b59613a0ce54fb5e}
+      \strng{bibnamehash}{60942a3d6fd56939b59613a0ce54fb5e}
+      \strng{authorbibnamehash}{60942a3d6fd56939b59613a0ce54fb5e}
+      \strng{authornamehash}{60942a3d6fd56939b59613a0ce54fb5e}
+      \strng{authorfullhash}{60942a3d6fd56939b59613a0ce54fb5e}
+      \strng{authorfullhashraw}{60942a3d6fd56939b59613a0ce54fb5e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We document a large and consequential bias in how Americans perceive the major political parties: people tend to considerably overestimate the extent to which party supporters belong to party-stereotypical groups. For instance, people think that 32\% of Democrats are {LGBT} (vs. 6\% in reality) and 38\% of Republicans earn over \$250,000 per year (vs. 2\% in reality). Experimental data suggest that these misperceptions are genuine and party specific, not artifacts of expressive responding, innumeracy, or ignorance of base rates. These misperceptions are widely shared, though bias in out-party perceptions is larger. Using observational and experimental data, we document the consequences of this perceptual bias. Misperceptions about out-party composition are associated with partisan affect, beliefs about out-party extremity, and allegiance to one’s own party. When provided information about the out-party’s actual composition, partisans come to see its supporters as less extreme and feel less socially distant from them.}
+      \field{issn}{0022-3816}
+      \field{journaltitle}{The Journal of Politics}
+      \field{month}{7}
+      \field{number}{3}
+      \field{shorttitle}{The Parties in Our Heads}
+      \field{title}{The Parties in Our Heads: Misperceptions about Party Composition and Their Consequences}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{80}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{964\bibrangedash 981}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1086/697253
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\zelph\\Zotero\\storage\\RIKLZEL9\\Ahler and Sood - 2018 - The Parties in Our Heads Misperceptions about Party Composition and Their Consequences.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.journals.uchicago.edu/doi/full/10.1086/697253
+      \endverb
+      \verb{url}
+      \verb https://www.journals.uchicago.edu/doi/full/10.1086/697253
+      \endverb
+    \endentry
+    \entry{amialchuk_influence_2019}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=05e73ec6bb8a6eb34d3520173c777ecf}{%
+           family={Amialchuk},
+           familyi={A\bibinitperiod},
+           given={Aliaksandr},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14bf6de18e6a15ce6663467f65862e6e}{%
+           family={Ajilore},
+           familyi={A\bibinitperiod},
+           given={Olugbenga},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c8572cb4dc1b62ba0bcceab4e0c56bd}{%
+           family={Egan},
+           familyi={E\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2a24017906842a45c84a6e4b431ef018}
+      \strng{fullhash}{205fca6d95f183650dcf6bfbc3496307}
+      \strng{fullhashraw}{205fca6d95f183650dcf6bfbc3496307}
+      \strng{bibnamehash}{205fca6d95f183650dcf6bfbc3496307}
+      \strng{authorbibnamehash}{205fca6d95f183650dcf6bfbc3496307}
+      \strng{authornamehash}{2a24017906842a45c84a6e4b431ef018}
+      \strng{authorfullhash}{205fca6d95f183650dcf6bfbc3496307}
+      \strng{authorfullhashraw}{205fca6d95f183650dcf6bfbc3496307}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Individuals often have biased perceptions about their peers' behavior. We use an economic equilibrium analysis to study the role social norms play in substance use decisions. Using a nationally representative dataset, we estimate the effect of misperception about friends' alcohol, smoking, and marijuana use on consumption of these substances by youths in grades 7–12. Overestimation of friend's substance use significantly increases adolescent's own use approximately 1 year later, and the estimated effect is robust across specifications including individual-level fixed effects regression. The effect size is bigger for boys than for girls. The estimates for those who initially underestimated the norm suggest the possibility of a rebound/boomerang effect.}
+      \field{issn}{1099-1050}
+      \field{journaltitle}{Health Economics}
+      \field{langid}{english}
+      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/hec.3878}
+      \field{number}{6}
+      \field{title}{The influence of misperceptions about social norms on substance use among school-aged adolescents}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{28}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{736\bibrangedash 747}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1002/hec.3878
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\zelph\\Zotero\\storage\\M2QNNP2Z\\Amialchuk et al. - 2019 - The influence of misperceptions about social norms on substance use among school-aged adolescents.pdf:application/pdf;Snapshot:C\:\\Users\\zelph\\Zotero\\storage\\BXPV4SGU\\hec.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.3878
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.3878
+      \endverb
+      \keyw{social norms,substance use,adolescents,add health,misperception}
+    \endentry
+    \entry{barman-adhikari_descriptive_2017}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=4e4887e8785539a8068403679a20959e}{%
+           family={Barman-Adhikari},
+           familyi={B\bibinithyphendelim A\bibinitperiod},
+           given={Anamika},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88ed183fd9d6429458982b099083eebf}{%
+           family={Al\bibnamedelima Tayyib},
+           familyi={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Alia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bcae920d683d072b77f37ebccea5fd5}{%
+           family={Begun},
+           familyi={B\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ade847c7a0079225af075911a41bff8}{%
+           family={Bowen},
+           familyi={B\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5939162cae2d450f396f0f61e9143a5}{%
+           family={Rice},
+           familyi={R\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{117714b7c838ae3b1e4bd5b8c39ed876}
+      \strng{fullhash}{0df16139757e76636118cdb92a3123be}
+      \strng{fullhashraw}{0df16139757e76636118cdb92a3123be}
+      \strng{bibnamehash}{0df16139757e76636118cdb92a3123be}
+      \strng{authorbibnamehash}{0df16139757e76636118cdb92a3123be}
+      \strng{authornamehash}{117714b7c838ae3b1e4bd5b8c39ed876}
+      \strng{authorfullhash}{0df16139757e76636118cdb92a3123be}
+      \strng{authorfullhashraw}{0df16139757e76636118cdb92a3123be}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background Nonmedical use of prescription drugs ({NMUPD}) among youth and young adults is being increasingly recognized as a significant public health problem. Homeless youth in particular are more likely to engage in {NMUPD} compared to housed youth. Studies suggest that network norms are strongly associated with a range of substance use behaviors. However, evidence regarding the association between network norms and {NMUPD} is scarce. We sought to understand whether social network norms of {NMUPD} are associated with engagement in {NMUPD} among homeless youth. Methods 1046 homeless youth were recruited from three drop-in centers in Los Angeles, {CA} and were interviewed regarding their individual and social network characteristics. Multivariate logistic regression was employed to evaluate the significance of associations between social norms (descriptive and injunctive) and self-reported {NMUPD}. Results Approximately 25\% of youth reported past 30-day {NMUPD}. However, more youth (32.28\%) of youth believed that their network members engage in {NMUPD}, perhaps suggesting some pluralistic ignorance bias. Both descriptive and injunctive norms were associated with self-reported {NMUPD} among homeless youth. However, these varied by network type, with presence of {NMUPD} engaged street-based and home-based peers (descriptive norm) increasing the likelihood of {NMUPD}, while objections from family-members (injunctive norm) decreasing that likelihood. Conclusions Our findings suggest that, like other substance use behaviors, {NMUPD} is also influenced by youths' perceptions of the behaviors of their social network members. Therefore, prevention and interventions programs designed to influence {NMUPD} might benefit from taking a social network norms approach.}
+      \field{day}{1}
+      \field{issn}{0306-4603}
+      \field{journaltitle}{Addictive Behaviors}
+      \field{month}{1}
+      \field{shortjournal}{Addictive Behaviors}
+      \field{title}{Descriptive and injunctive network norms associated with nonmedical use of prescription drugs among homeless youth}
+      \field{urlday}{8}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{64}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{70\bibrangedash 77}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.addbeh.2016.08.015
+      \endverb
+      \verb{file}
+      \verb Accepted Version:C\:\\Users\\zelph\\Zotero\\storage\\XTUNMCH4\\Barman-Adhikari et al. - 2017 - Descriptive and injunctive network norms associated with nonmedical use of prescription drugs among.pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\zelph\\Zotero\\storage\\8LD9EA7H\\S0306460316302957.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0306460316302957
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0306460316302957
+      \endverb
+      \keyw{Homeless youth,Nonmedical use of prescription drugs,Social network norms,Substance use}
+    \endentry
+    \entry{boon_pluralistic_2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=af069b6064571df6a2b99f96755c386d}{%
+           family={Boon},
+           familyi={B\bibinitperiod},
+           given={Susan\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec65edae92956f3ab7ace5bdb9baf92d}{%
+           family={Watkins},
+           familyi={W\bibinitperiod},
+           given={Sarah\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b27c07e9b8ed261e1f5044ce6dcb7d69}{%
+           family={Sciban},
+           familyi={S\bibinitperiod},
+           given={Rowan\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c5b09e5cd64e7f1179a7957876e592b6}
+      \strng{fullhash}{3728878a60e583b54c5c68e5ec76ebdc}
+      \strng{fullhashraw}{3728878a60e583b54c5c68e5ec76ebdc}
+      \strng{bibnamehash}{3728878a60e583b54c5c68e5ec76ebdc}
+      \strng{authorbibnamehash}{3728878a60e583b54c5c68e5ec76ebdc}
+      \strng{authornamehash}{c5b09e5cd64e7f1179a7957876e592b6}
+      \strng{authorfullhash}{3728878a60e583b54c5c68e5ec76ebdc}
+      \strng{authorfullhashraw}{3728878a60e583b54c5c68e5ec76ebdc}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Two studies tested the hypothesis that beliefs about infidelity in dating relationships reflect pluralistic ignorance, a misperception in which people mistakenly believe that their own personal attitudes and behavior differ from others' when they do not. Consistent with pluralistic ignorance findings in other domains, undergraduates reported that the average university student (a) saw dating infidelity as more acceptable and (b) engaged in unfaithful acts more frequently than they themselves did. Neither type of infidelity (sexual, emotional, both sexual and emotional, or unspecified; Study 1, N = 176) nor motivated reasoning (i.e., defensiveness; Study 2, N = 359) moderated this pattern of results. Possible sources of misperceived norms concerning fidelity in dating relationships and the implications of such misperceptions are discussed.}
+      \field{issn}{1475-6811}
+      \field{journaltitle}{Personal Relationships}
+      \field{langid}{english}
+      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/pere.12044}
+      \field{number}{3}
+      \field{title}{Pluralistic ignorance and misperception of social norms concerning cheating in dating relationships}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{21}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{482\bibrangedash 496}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1111/pere.12044
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\zelph\\Zotero\\storage\\JRYY6BSZ\\Boon et al. - 2014 - Pluralistic ignorance and misperception of social norms concerning cheating in dating relationships.pdf:application/pdf;Snapshot:C\:\\Users\\zelph\\Zotero\\storage\\G8QFYKYT\\pere.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/pere.12044
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/pere.12044
+      \endverb
+    \endentry
+    \entry{borsari_drinking_2004}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6959df7356c6105fe65a7e3c4aeb7539}{%
+           family={Borsari},
+           familyi={B\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Journal of Alcohol}%
+        {Drug Education ({JADE})}%
+      }
+      \strng{namehash}{6959df7356c6105fe65a7e3c4aeb7539}
+      \strng{fullhash}{6959df7356c6105fe65a7e3c4aeb7539}
+      \strng{fullhashraw}{6959df7356c6105fe65a7e3c4aeb7539}
+      \strng{bibnamehash}{6959df7356c6105fe65a7e3c4aeb7539}
+      \strng{authorbibnamehash}{6959df7356c6105fe65a7e3c4aeb7539}
+      \strng{authornamehash}{6959df7356c6105fe65a7e3c4aeb7539}
+      \strng{authorfullhash}{6959df7356c6105fe65a7e3c4aeb7539}
+      \strng{authorfullhashraw}{6959df7356c6105fe65a7e3c4aeb7539}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Drinking games among American college students, although popular contribute significantly to excessive drinking and alcohol-related probl Drinking games appear to facilitate socialization, and are especially prevalent amongyounger students. This article reviews the qualitative and quantitative research on drinking games. Findings from qualitative studies suggest that students partidpate in drinking games to intoxicate themselves and others, to facilitate socialization, and for competition. Quantitative studies have identified motives for initiating and stopping drinking games, as well as age and gender differences in partidpation. Research finding highlight the importance of educating students about the risks assodated with playing drinking games. Spedfically, students should be alerted about the heightened risk of extreme intoxication and consequences that can result from playing drinking games. Women are at particular risk for experiendng sexual assault in the drinking game context. Alternative socialization opportunities should be provided to the students to countera the inherent sodal advantages of drinking game partidpation.}
+      \field{issn}{0090-1482}
+      \field{journaltitle}{Journal of Alcohol and Drug Education}
+      \field{number}{2}
+      \field{shorttitle}{{DRINKING} {GAMES}}
+      \field{title}{{DRINKING} {GAMES}: Drinking Games in the College Environment: A Review}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{48}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{29\bibrangedash 51}
+      \range{pages}{23}
+      \verb{file}
+      \verb JSTOR Full Text PDF:C\:\\Users\\zelph\\Zotero\\storage\\3SSRA9AB\\Borsari - 2004 - DRINKING GAMES Drinking Games in the College Environment A Review.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/45092356
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/45092356
+      \endverb
+    \endentry
+    \entry{ellemers_influence_1990}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=65b6caa21ee47870bf09fed00752121f}{%
+           family={Ellemers},
+           familyi={E\bibinitperiod},
+           given={Naomi},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=989bb7d67bf02d6ae6253effb0e48b99}{%
+           family={Knippenberg},
+           familyi={K\bibinitperiod},
+           given={Ad},
+           giveni={A\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=fd7be232f1a3f6ed8d264788864f4bf0}{%
+           family={Wilke},
+           familyi={W\bibinitperiod},
+           given={Henk},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0092a5e5c003331d5a13c44351610e58}
+      \strng{fullhash}{bf52e21a05a8841788fa6cf6812009c6}
+      \strng{fullhashraw}{bf52e21a05a8841788fa6cf6812009c6}
+      \strng{bibnamehash}{bf52e21a05a8841788fa6cf6812009c6}
+      \strng{authorbibnamehash}{bf52e21a05a8841788fa6cf6812009c6}
+      \strng{authornamehash}{0092a5e5c003331d5a13c44351610e58}
+      \strng{authorfullhash}{bf52e21a05a8841788fa6cf6812009c6}
+      \strng{authorfullhashraw}{bf52e21a05a8841788fa6cf6812009c6}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{According to social identity theory, striving of group members for enhancement of their social identity may be resolved through individual mobility (i.e. by dissociation from one's own group in order to gain membership of a higher status group), or by social change (i.e. by upgrading the status position of the in-group as a whole). Individual mobility may only be achieved when group boundaries are permeable; social change is only feasible when group status is unstable. This study investigates how these structural characteristics of the intergroup situation affect group members' preference for the individual mobility or social change strategy. In a laboratory setting subjects were given bogus feedback to induce differential levels of individual ability and group status. Additionally, the permeability of group boundaries and the stability of group status were manipulated. The main results are that, generally, members of high status groups show more satisfaction and in-group identification than members of low status groups. Permeable group boundaries apparently induce a tendency to strive for individual mobility, regardless of the in-group's status position. In relation to members of impermeable groups, members of groups with permeable boundaries show decreased in-group identification; there is evidence of (anticipatory) identification with the higher status group instead. A collective attempt at social change seems to be evoked when group status is unstable. In all groups with unstable status, members indicate their readiness to try to improve their group's status position. Moreover, members of low status groups with unstable status positions show relatively strong in-group identification, despite the lack of positive distinctiveness available to the in-group at the time.}
+      \field{issn}{2044-8309}
+      \field{journaltitle}{British Journal of Social Psychology}
+      \field{langid}{english}
+      \field{note}{\_eprint: https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1111/j.2044-8309.1990.tb00902.x}
+      \field{number}{3}
+      \field{title}{The influence of permeability of group boundaries and stability of group status on strategies of individual mobility and social change}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{volume}{29}
+      \field{year}{1990}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{233\bibrangedash 246}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1111/j.2044-8309.1990.tb00902.x
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\zelph\\Zotero\\storage\\6JA7WNEQ\\Ellemers et al. - 1990 - The influence of permeability of group boundaries and stability of group status on strategies of ind.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8309.1990.tb00902.x
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8309.1990.tb00902.x
+      \endverb
+    \endentry
+    \entry{galesic_sampling_2018}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c774748847f5e8d475f0cdcac4465ca8}{%
+           family={Galesic},
+           familyi={G\bibinitperiod},
+           given={Mirta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5aa8728802e118c65bfca50ebfe24a6}{%
+           family={Olsson},
+           familyi={O\bibinitperiod},
+           given={Henrik},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a7300dfcb057f39ff264da35ee58159}{%
+           family={Rieskamp},
+           familyi={R\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eefbf0f39f85497fa3e70073d8dd5ef9}
+      \strng{fullhash}{7edc526bbabfb71adb6ed7ea729fc3ff}
+      \strng{fullhashraw}{7edc526bbabfb71adb6ed7ea729fc3ff}
+      \strng{bibnamehash}{7edc526bbabfb71adb6ed7ea729fc3ff}
+      \strng{authorbibnamehash}{7edc526bbabfb71adb6ed7ea729fc3ff}
+      \strng{authornamehash}{eefbf0f39f85497fa3e70073d8dd5ef9}
+      \strng{authorfullhash}{7edc526bbabfb71adb6ed7ea729fc3ff}
+      \strng{authorfullhashraw}{7edc526bbabfb71adb6ed7ea729fc3ff}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Studies of social judgments have demonstrated a number of diverse phenomena that were so far difficult to explain within a single theoretical framework. Prominent examples are false consensus and false uniqueness, as well as self-enhancement and self-depreciation. Here we show that these seemingly complex phenomena can be a product of an interplay between basic cognitive processes and the structure of social and task environments. We propose and test a new process model of social judgment, the social sampling model ({SSM}), which provides a parsimonious quantitative account of different types of social judgments. In the {SSM}, judgments about characteristics of broader social environments are based on sampling of social instances from memory, where instances receive activation if they belong to a target reference class and have a particular characteristic. These sampling processes interact with the properties of social and task environments, including homophily, shapes of frequency distributions, and question formats. For example, in line with the model’s predictions we found that whether false consensus or false uniqueness will occur depends on the level of homophily in people’s social circles and on the way questions are asked. The model also explains some previously unaccounted-for patterns of selfenhancement and self-depreciation. People seem to be well informed about many characteristics of their immediate social circles, which in turn influence how they evaluate broader social environments and their position within them.}
+      \field{issn}{1939-1471, 0033-295X}
+      \field{journaltitle}{Psychological Review}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{3}
+      \field{shortjournal}{Psychological Review}
+      \field{title}{A sampling model of social judgment.}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{125}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{363\bibrangedash 390}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1037/rev0000096
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\zelph\\Zotero\\storage\\E25AXHAK\\Galesic et al. - 2018 - A sampling model of social judgment..pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.apa.org/doi/10.1037/rev0000096
+      \endverb
+      \verb{url}
+      \verb https://doi.apa.org/doi/10.1037/rev0000096
+      \endverb
+    \endentry
+    \entry{hegselmann_opinion_2005}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aaf95a640c24593ff5ad99b4da93bc3a}{%
+           family={Hegselmann},
+           familyi={H\bibinitperiod},
+           given={Rainer},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4647a365f0d2ce7fa24de0b8c50bc06a}{%
+           family={Krause},
+           familyi={K\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c11c172b875d96146e821e713b9f880f}
+      \strng{fullhash}{c11c172b875d96146e821e713b9f880f}
+      \strng{fullhashraw}{c11c172b875d96146e821e713b9f880f}
+      \strng{bibnamehash}{c11c172b875d96146e821e713b9f880f}
+      \strng{authorbibnamehash}{c11c172b875d96146e821e713b9f880f}
+      \strng{authornamehash}{c11c172b875d96146e821e713b9f880f}
+      \strng{authorfullhash}{c11c172b875d96146e821e713b9f880f}
+      \strng{authorfullhashraw}{c11c172b875d96146e821e713b9f880f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The paper treats opinion dynamics under bounded conﬁdence when agents employ, beside an arithmetic mean, means like a geometric mean, a power mean or a random mean in aggregating opinions. The different kinds of collective dynamics resulting from these various ways of averaging are studied and compared by simulations. Particular attention is given to the random mean which is a new concept introduced in this paper. All those concrete means are just particular cases of a partial abstract mean, which also is a new concept. This comprehensive concept of averaging opinions is investigated also analytically and it is shown in particular, that the dynamics driven by it always stabilizes in a certain pattern of opinions.}
+      \field{issn}{0927-7099, 1572-9974}
+      \field{journaltitle}{Computational Economics}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{4}
+      \field{shortjournal}{Comput Econ}
+      \field{title}{Opinion Dynamics Driven by Various Ways of Averaging}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{25}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{381\bibrangedash 405}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1007/s10614-005-6296-3
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\zelph\\Zotero\\storage\\YEPIZ9UA\\Hegselmann and Krause - 2005 - Opinion Dynamics Driven by Various Ways of Averaging.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s10614-005-6296-3
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s10614-005-6296-3
+      \endverb
+    \endentry
+    \entry{hornsey_social_2008}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3e6f88d5b14f9bb51abd9c575ccd0b86}{%
+           family={Hornsey},
+           familyi={H\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3e6f88d5b14f9bb51abd9c575ccd0b86}
+      \strng{fullhash}{3e6f88d5b14f9bb51abd9c575ccd0b86}
+      \strng{fullhashraw}{3e6f88d5b14f9bb51abd9c575ccd0b86}
+      \strng{bibnamehash}{3e6f88d5b14f9bb51abd9c575ccd0b86}
+      \strng{authorbibnamehash}{3e6f88d5b14f9bb51abd9c575ccd0b86}
+      \strng{authornamehash}{3e6f88d5b14f9bb51abd9c575ccd0b86}
+      \strng{authorfullhash}{3e6f88d5b14f9bb51abd9c575ccd0b86}
+      \strng{authorfullhashraw}{3e6f88d5b14f9bb51abd9c575ccd0b86}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract The social identity approach (comprising social identity theory and self‐categorization theory) is a highly influential theory of group processes and intergroup relations, having redefined how we think about numerous group‐mediated phenomena. Since its emergence in the early 1970s, the social identity approach has been elaborated, re‐interpreted, and occasionally misinterpreted. The goal of this paper is to provide a critical, historical review of how thinking and research within the social identity approach has evolved. The core principles of the theories are reviewed and discussed, and their effect on the field assessed. Strengths and limitations of the approach are discussed, with an eye to future developments.}
+      \field{issn}{1751-9004, 1751-9004}
+      \field{journaltitle}{Social and Personality Psychology Compass}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Social \&amp; Personality Psych}
+      \field{shorttitle}{Social Identity Theory and Self‐categorization Theory}
+      \field{title}{Social Identity Theory and Self‐categorization Theory: A Historical Review}
+      \field{urlday}{14}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{volume}{2}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{204\bibrangedash 222}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1111/j.1751-9004.2007.00066.x
+      \endverb
+      \verb{urlraw}
+      \verb https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2007.00066.x
+      \endverb
+      \verb{url}
+      \verb https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2007.00066.x
+      \endverb
+    \endentry
+    \entry{hou_opinion_2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=20eac2465e3a3afb64f110b068ffa2c1}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f268a5ea40357dfeab1fa53e4512876}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wenshan},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ab4475e12e336c41b13ac57cc1545a2}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Mingyue},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b65746c53442de625976454efdd6a9d7}
+      \strng{fullhash}{7b15e37f726a533f4cb14a98542b36a8}
+      \strng{fullhashraw}{7b15e37f726a533f4cb14a98542b36a8}
+      \strng{bibnamehash}{7b15e37f726a533f4cb14a98542b36a8}
+      \strng{authorbibnamehash}{7b15e37f726a533f4cb14a98542b36a8}
+      \strng{authornamehash}{b65746c53442de625976454efdd6a9d7}
+      \strng{authorfullhash}{7b15e37f726a533f4cb14a98542b36a8}
+      \strng{authorfullhashraw}{7b15e37f726a533f4cb14a98542b36a8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In a social network, an individual may express an opinion against his/her own private opinion. Moreover, during the evolution of opinion dynamics, an individual may only accept parts of opinions that are similar to his/her own opinion. These phenomenons bring new challenges to the study of the opinion dynamics. In this paper, we propose a modified expressed-private-opinion ({MEPO}) model with bounded confidence. In the {MEPO} model, two categories of neighborhood relationships, namely, the communication neighbor and the opinion neighbor, are proposed. More specifically, the communication neighbor represents the information flow among individuals while the opinion neighbor, which is a subset of the communication neighbor, implies whether or not the corresponding opinions will be accepted to be incorporated into the individual’s opinion updating process. Furthermore, the scope of the opinion neighbor is determined by the confidence level such that the whole group is divided into open-minded, moderateminded, and closed-minded individuals accordingly. As a result, an individual’s private opinion in the proposed {MEPO} model evolves by his/her own private opinion and the stubbornness value, and also the impacts from the expressed opinions of the opinion neighbors.}
+      \field{issn}{03784371}
+      \field{journaltitle}{Physica A: Statistical Mechanics and its Applications}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{shortjournal}{Physica A: Statistical Mechanics and its Applications}
+      \field{title}{Opinion dynamics in modified expressed and private model with bounded confidence}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{574}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{125968}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.physa.2021.125968
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\zelph\\Zotero\\storage\\Y6PUGUVF\\Hou et al. - 2021 - Opinion dynamics in modified expressed and private model with bounded confidence.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378437121002405
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378437121002405
+      \endverb
+    \endentry
+    \entry{huang_novel_2014}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d76e3935998cb587aa37c3bf823edc0b}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Chung-Yuan},
+           giveni={C\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ba419e1235cbf1e27e4e7bd02c4344d}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Tzai-Hung},
+           giveni={T\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fa3eba7ed46677d620ed1910336fcc52}
+      \strng{fullhash}{fa3eba7ed46677d620ed1910336fcc52}
+      \strng{fullhashraw}{fa3eba7ed46677d620ed1910336fcc52}
+      \strng{bibnamehash}{fa3eba7ed46677d620ed1910336fcc52}
+      \strng{authorbibnamehash}{fa3eba7ed46677d620ed1910336fcc52}
+      \strng{authornamehash}{fa3eba7ed46677d620ed1910336fcc52}
+      \strng{authorfullhash}{fa3eba7ed46677d620ed1910336fcc52}
+      \strng{authorfullhashraw}{fa3eba7ed46677d620ed1910336fcc52}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1460-7425}
+      \field{journaltitle}{Journal of Artificial Societies and Social Simulation}
+      \field{number}{3}
+      \field{shortjournal}{{JASSS}}
+      \field{title}{A Novel Private Attitude and Public Opinion Dynamics Model for Simulating Pluralistic Ignorance and Minority Influence}
+      \field{volume}{17}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{8}
+      \range{pages}{1}
+      \verb{file}
+      \verb text/html Attachment:C\:\\Users\\zelph\\Zotero\\storage\\PJPHEA2N\\8.html:text/html
+      \endverb
+    \endentry
+    \entry{kawamura_pluralistic_2024}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c6cd8aea8515e012bf5d543ff611c7b1}{%
+           family={Kawamura},
+           familyi={K\bibinitperiod},
+           given={Yuta},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4be6495829acca443b05ad3fe7e9a67a}{%
+           family={Totake},
+           familyi={T\bibinitperiod},
+           given={Kanatsu},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{116f6fb9f5342569877c93fa35a02d44}
+      \strng{fullhash}{116f6fb9f5342569877c93fa35a02d44}
+      \strng{fullhashraw}{116f6fb9f5342569877c93fa35a02d44}
+      \strng{bibnamehash}{116f6fb9f5342569877c93fa35a02d44}
+      \strng{authorbibnamehash}{116f6fb9f5342569877c93fa35a02d44}
+      \strng{authornamehash}{116f6fb9f5342569877c93fa35a02d44}
+      \strng{authorfullhash}{116f6fb9f5342569877c93fa35a02d44}
+      \strng{authorfullhashraw}{116f6fb9f5342569877c93fa35a02d44}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In recent times, the circumstances surrounding childcare leave in Japan have undergone substantial change. The present study aimed to replicate the study by Miyajima and Yamaguchi (2017), who demonstrated that pluralistic ignorance inhibits paternity leave. Our preregistered replication survey, which comprised 222 employed males, found that participants recognized others' attitudes toward paternity leave as more negative than they actually were. This result indicates that, as in the previous study, pluralistic ignorance about paternity leave still exists. However, unlike Miyajima and Yamaguchi's (2017) work, pluralistic ignorance did not inhibit participants' willingness to take paternity leave. The potential causes of these differences are discussed.}
+      \field{issn}{1468-5884}
+      \field{issue}{n/a}
+      \field{journaltitle}{Japanese Psychological Research}
+      \field{langid}{english}
+      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/jpr.12507}
+      \field{shorttitle}{Pluralistic Ignorance did not Prevent Paternity Leave in Japan in December 2021}
+      \field{title}{Pluralistic Ignorance did not Prevent Paternity Leave in {Japan} in {December} 2021: A Replication Study}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1111/jpr.12507
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\zelph\\Zotero\\storage\\U46HUTQD\\Kawamura and Totake - Pluralistic Ignorance did not Prevent Paternity Leave in Japan in December 2021 A Replication Study.pdf:application/pdf;Snapshot:C\:\\Users\\zelph\\Zotero\\storage\\IDSJ335Z\\jpr.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jpr.12507
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jpr.12507
+      \endverb
+      \keyw{social change,pluralistic ignorance,gender role norm,paternity leave,social norm}
+    \endentry
+    \entry{kitts_egocentric_2003}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0977cec36808044e8bfaf6540faedc8b}{%
+           family={Kitts},
+           familyi={K\bibinitperiod},
+           given={James\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {[Sage Publications, Inc., American Sociological Association]}%
+      }
+      \strng{namehash}{0977cec36808044e8bfaf6540faedc8b}
+      \strng{fullhash}{0977cec36808044e8bfaf6540faedc8b}
+      \strng{fullhashraw}{0977cec36808044e8bfaf6540faedc8b}
+      \strng{bibnamehash}{0977cec36808044e8bfaf6540faedc8b}
+      \strng{authorbibnamehash}{0977cec36808044e8bfaf6540faedc8b}
+      \strng{authornamehash}{0977cec36808044e8bfaf6540faedc8b}
+      \strng{authorfullhash}{0977cec36808044e8bfaf6540faedc8b}
+      \strng{authorfullhashraw}{0977cec36808044e8bfaf6540faedc8b}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper reports on biases in group members' inferences about collective support for group norms. Whereas theories of "looking glass perception" suggest a tendency to project our own preferences onto others, this paper shows that observed biases simply may reflect flows of information through social networks. Members conceal counternormative behavior and disclose it selectively within confidence relations. This process yields structured inference, in which members' inferences depend on their social ties, and also pluralistic ignorance, in which members generally overestimate collective support for existing norms. These predictions are evaluated in a field study of perceived normative consensus in five vegetarian housing cooperatives. Results fail to support the "intrinsic bias" argument, but demonstrate these forms of "information bias."}
+      \field{issn}{0190-2725}
+      \field{journaltitle}{Social Psychology Quarterly}
+      \field{number}{3}
+      \field{shorttitle}{Egocentric Bias or Information Management?}
+      \field{title}{Egocentric Bias or Information Management? Selective Disclosure and the Social Roots of Norm Misperception}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{66}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{222\bibrangedash 237}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.2307/1519823
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\zelph\\Zotero\\storage\\IP5I5UNK\\Kitts - 2003 - Egocentric Bias or Information Management Selective Disclosure and the Social Roots of Norm Misperc.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/1519823
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/1519823
+      \endverb
+    \endentry
+    \entry{manfredi_private-public_2020}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f0b04e31f85136e55c5ff41359cdbcb4}{%
+           family={Manfredi},
+           familyi={M\bibinitperiod},
+           given={Ren},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2dd49a0e905bd66298e6796747ad4400}{%
+           family={Guazzini},
+           familyi={G\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b83c4576348bfa26574940a4258d69dc}{%
+           family={Roos},
+           familyi={R\bibinitperiod},
+           given={Carla\bibnamedelima Anne},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60945b3e9c61d51acd33666e9c86f0dc}{%
+           family={Postmes},
+           familyi={P\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=004c9f4df486b93a555c6a06ccd4b1c8}{%
+           family={Koudenburg},
+           familyi={K\bibinitperiod},
+           given={Namkje},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{338d8e7cd72477e0e7aa343846651895}
+      \strng{fullhash}{d1cea661065e6cf661bb372f8ef56e5e}
+      \strng{fullhashraw}{d1cea661065e6cf661bb372f8ef56e5e}
+      \strng{bibnamehash}{d1cea661065e6cf661bb372f8ef56e5e}
+      \strng{authorbibnamehash}{d1cea661065e6cf661bb372f8ef56e5e}
+      \strng{authornamehash}{338d8e7cd72477e0e7aa343846651895}
+      \strng{authorfullhash}{d1cea661065e6cf661bb372f8ef56e5e}
+      \strng{authorfullhashraw}{d1cea661065e6cf661bb372f8ef56e5e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In many Western societies there are rising concerns about increasing polarization in public debate. However, statistics on private attitudes paint a different picture: the average attitudes in societies are more moderate and remain rather stable over time. The present paper presents an agent-based model of how such discrepancies between public opinion and private attitudes develop at the scale of micro-societies. Based on social psychological theorizing, the model distinguishes between two types of agents: a) those seeking to gain or maintain a good reputation and status, and b) those seeking to promote group harmony by reaching consensus. We characterized these different types of agents by different decision rules for either voicing their opinion or remaining silent, based on the behavior of their proximal network. Results of the model simulations show that even when the private attitudes of the agents are held constant, publicly expressed opinions can oscillate and (depending on the reputational concerns of individual actors) situations can occur in which minorities as well as majorities are silenced. We conclude that the macro-level consequences of micro-level decisions to either voice an opinion or remain silent provide a foundation for better understanding how public opinions are shaped. Moreover, we discuss the conditions under which public opinion could be considered a good representation of private attitudes in a society.}
+      \field{day}{25}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{{PLOS} {ONE}}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{11}
+      \field{shortjournal}{{PLOS} {ONE}}
+      \field{title}{Private-Public Opinion Discrepancy}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{15}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{e0242148}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0242148
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\zelph\\Zotero\\storage\\4Y63YBZ4\\Manfredi et al. - 2020 - Private-Public Opinion Discrepancy.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242148
+      \endverb
+      \verb{url}
+      \verb https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242148
+      \endverb
+      \keyw{Agent-based modeling,Social networks,Social psychology,Psychological attitudes,Behavior,Simulation and modeling,Social systems,System stability}
+    \endentry
+    \entry{miyajima_i_2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=faade0c55db111f2cdfcdcc4e002f1ed}{%
+           family={Miyajima},
+           familyi={M\bibinitperiod},
+           given={Takeru},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7970543da0ed666c87d7af191bfb42a1}{%
+           family={Yamaguchi},
+           familyi={Y\bibinitperiod},
+           given={Hiroyuki},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8f4d39a3e1962ee93224b0f61d5ce2c2}
+      \strng{fullhash}{8f4d39a3e1962ee93224b0f61d5ce2c2}
+      \strng{fullhashraw}{8f4d39a3e1962ee93224b0f61d5ce2c2}
+      \strng{bibnamehash}{8f4d39a3e1962ee93224b0f61d5ce2c2}
+      \strng{authorbibnamehash}{8f4d39a3e1962ee93224b0f61d5ce2c2}
+      \strng{authornamehash}{8f4d39a3e1962ee93224b0f61d5ce2c2}
+      \strng{authorfullhash}{8f4d39a3e1962ee93224b0f61d5ce2c2}
+      \strng{authorfullhashraw}{8f4d39a3e1962ee93224b0f61d5ce2c2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Psychology}
+      \field{title}{I want to but {I} won't: Pluralistic ignorance inhibits intentions to take paternity leave in {Japan}}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{8}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1508}
+      \range{pages}{1}
+      \verb{file}
+      \verb Frontiers | I Want to but I Won't\: Pluralistic Ignorance Inhibits Intentions to Take Paternity Leave in Japan:C\:\\Users\\zelph\\Zotero\\storage\\UNBWTQF4\\full.html:text/html;PDF:C\:\\Users\\zelph\\Zotero\\storage\\LNK5SS9Y\\Frontiers I Want to but I Won't Pluralistic Ignorance Inhibits Intentions to Take Paternity Leave.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3389/fpsyg.2017.01508
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3389/fpsyg.2017.01508
+      \endverb
+    \endentry
+    \entry{prentice_pluralistic_1993}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a896b656a64c2d6e9d60fc3ae9b8a584}{%
+           family={Prentice},
+           familyi={P\bibinitperiod},
+           given={Deborah\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4473c003740bc641e8df07a151cfa0e}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Dale\bibnamedelima T},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{05566d6431f6ba1e74a09aa3727efe85}
+      \strng{fullhash}{05566d6431f6ba1e74a09aa3727efe85}
+      \strng{fullhashraw}{05566d6431f6ba1e74a09aa3727efe85}
+      \strng{bibnamehash}{05566d6431f6ba1e74a09aa3727efe85}
+      \strng{authorbibnamehash}{05566d6431f6ba1e74a09aa3727efe85}
+      \strng{authornamehash}{05566d6431f6ba1e74a09aa3727efe85}
+      \strng{authorfullhash}{05566d6431f6ba1e74a09aa3727efe85}
+      \strng{authorfullhashraw}{05566d6431f6ba1e74a09aa3727efe85}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Personality and Social Psychology}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{title}{Pluralistic Ignorance and Alcohol Use on Campus: Some Consequences of Misperceiving the Social Norm}
+      \field{volume}{64}
+      \field{year}{1993}
+      \field{dateera}{ce}
+      \field{pages}{243\bibrangedash 256}
+      \range{pages}{14}
+      \verb{file}
+      \verb PDF:C\:\\Users\\zelph\\Zotero\\storage\\SKG7CLN8\\Prentice and Miller - Pluralistic Ignorance and Alcohol Use on Campus Some Consequences of Misperceiving the Social Norm.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{robertson_inside_2024}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d22c0c9b1114b77fc8966d72a79af52c}{%
+           family={Robertson},
+           familyi={R\bibinitperiod},
+           given={Claire\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=404823d5a39e048b5fa6b35b1d61930b}{%
+           family={Rosario},
+           familyi={R\bibinitperiod},
+           given={Kareena\bibnamedelima S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0,
+           prefix={del},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c6909013f31864616da47b2bc555e9bc}{%
+           family={Van\bibnamedelima Bavel},
+           familyi={V\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Jay\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{27f539deb38df5aad6134852e3127e55}
+      \strng{fullhash}{17391e7cf487ee1353b17416b2c7f2e8}
+      \strng{fullhashraw}{17391e7cf487ee1353b17416b2c7f2e8}
+      \strng{bibnamehash}{17391e7cf487ee1353b17416b2c7f2e8}
+      \strng{authorbibnamehash}{17391e7cf487ee1353b17416b2c7f2e8}
+      \strng{authornamehash}{27f539deb38df5aad6134852e3127e55}
+      \strng{authorfullhash}{17391e7cf487ee1353b17416b2c7f2e8}
+      \strng{authorfullhashraw}{17391e7cf487ee1353b17416b2c7f2e8}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The current paper explains how modern technology interacts with human psychology to create a funhouse mirror version of social norms. We argue that norms generated on social media often tend to be more extreme than offline norms which can create false perceptions of norms–known as pluralistic ignorance. We integrate research from political science, psychology, and cognitive science to explain how online environments become saturated with false norms, who is misrepresented online, what happens when online norms deviate from offline norms, where people are affected online, and why expressions are more extreme online. We provide a framework for understanding and correcting for the distortions in our perceptions of social norms that are created by social media platforms. We argue the funhouse mirror nature of social media can be pernicious for individuals and society by increasing pluralistic ignorance and false polarization.}
+      \field{day}{1}
+      \field{issn}{2352-250X}
+      \field{journaltitle}{Current Opinion in Psychology}
+      \field{month}{12}
+      \field{shortjournal}{Current Opinion in Psychology}
+      \field{shorttitle}{Inside the funhouse mirror factory}
+      \field{title}{Inside the funhouse mirror factory: How social media distorts perceptions of norms}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{volume}{60}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{101918}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.copsyc.2024.101918
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:C\:\\Users\\zelph\\Zotero\\storage\\8M88LTN3\\S2352250X24001313.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352250X24001313
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352250X24001313
+      \endverb
+    \endentry
+    \entry{roy_opinion_2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fdf9671cc3ff75300e75d371ef507fac}{%
+           family={Roy},
+           familyi={R\bibinitperiod},
+           given={Subhadeep},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24f07b09d59a7cf860506554e6eed830}{%
+           family={Biswas},
+           familyi={B\bibinitperiod},
+           given={Soumyajyoti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bf19f837ffc668fe83520850725cb06c}
+      \strng{fullhash}{bf19f837ffc668fe83520850725cb06c}
+      \strng{fullhashraw}{bf19f837ffc668fe83520850725cb06c}
+      \strng{bibnamehash}{bf19f837ffc668fe83520850725cb06c}
+      \strng{authorbibnamehash}{bf19f837ffc668fe83520850725cb06c}
+      \strng{authornamehash}{bf19f837ffc668fe83520850725cb06c}
+      \strng{authorfullhash}{bf19f837ffc668fe83520850725cb06c}
+      \strng{authorfullhashraw}{bf19f837ffc668fe83520850725cb06c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We study here the dynamics of opinion formation in a society where we take into account the internally held beliefs and externally expressed opinions of the individuals, which are not necessarily the same at all times. While these two components can influence one another, their difference, both in dynamics and in the steady state, poses interesting scenarios in terms of the transition to consensus in the society and characterizations of such consensus. Here we study this public and private opinion dynamics and the critical behaviour of the consensus forming transitions, using a kinetic exchange model.This article is part of the theme issue ‘Kinetic exchange models of societies and economies’.}
+      \field{day}{11}
+      \field{issn}{1364-503X}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences}
+      \field{month}{4}
+      \field{number}{2224}
+      \field{shortjournal}{Philos Trans A Math Phys Eng Sci}
+      \field{shorttitle}{Opinion dynamics}
+      \field{title}{Opinion dynamics: public and private}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{380}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{20210169}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1098/rsta.2021.0169
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\zelph\\Zotero\\storage\\9U9MCYB9\\Roy and Biswas - 2022 - Opinion dynamics public and private.pdf:application/pdf;Snapshot:C\:\\Users\\zelph\\Zotero\\storage\\CXV9XT69\\rsta.2021.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1098/rsta.2021.0169
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1098/rsta.2021.0169
+      \endverb
+    \endentry
+    \entry{salzarulo_continuous_2006}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f45944ee1ff53aef14c03468baf2702c}{%
+           family={Salzarulo},
+           familyi={S\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f45944ee1ff53aef14c03468baf2702c}
+      \strng{fullhash}{f45944ee1ff53aef14c03468baf2702c}
+      \strng{fullhashraw}{f45944ee1ff53aef14c03468baf2702c}
+      \strng{bibnamehash}{f45944ee1ff53aef14c03468baf2702c}
+      \strng{authorbibnamehash}{f45944ee1ff53aef14c03468baf2702c}
+      \strng{authornamehash}{f45944ee1ff53aef14c03468baf2702c}
+      \strng{authorfullhash}{f45944ee1ff53aef14c03468baf2702c}
+      \strng{authorfullhashraw}{f45944ee1ff53aef14c03468baf2702c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We propose a new continuous opinion dynamics model inspired by social psychology. It is based on a central assumption of self-categorization theory called principle of meta-contrast. We study the behaviour of the model for several network interactions and show that, in particular, consensus, polarization or extremism are possible outcomes, even without explicit introduction of extremist agents. The model is compared to other existing opinion dynamics models.}
+      \field{day}{31}
+      \field{issn}{1460-7425}
+      \field{journaltitle}{Journal of Artificial Societies and Social Simulation}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{A Continuous Opinion Dynamics Model Based on the Principle of Meta-Contrast}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{9}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{13}
+      \range{pages}{1}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\zelph\\Zotero\\storage\\CHJKRN66\\13.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jasss.org/9/1/13.html
+      \endverb
+      \verb{url}
+      \verb https://www.jasss.org/9/1/13.html
+      \endverb
+    \endentry
+    \entry{segrist_yeah_2007}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=efad2c1b1ec0db315e06133b73ecdfad}{%
+           family={Segrist},
+           familyi={S\bibinitperiod},
+           given={Dan\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19b33f89ca502236399b0c1730389e82}{%
+           family={Corcoran},
+           familyi={C\bibinitperiod},
+           given={Kevin\bibnamedelima J},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af0a2e021b6112af2fa3a985a2a6cb54}{%
+           family={Jordan-Fleming},
+           familyi={J\bibinithyphendelim F\bibinitperiod},
+           given={Mary\bibnamedelima Kay},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6c984d769f7549740d8da9fbcd68871}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4997cfdde6eafe3667749d51719c22ce}
+      \strng{fullhash}{0588209dd6bb35b028152da2d4c2179f}
+      \strng{fullhashraw}{0588209dd6bb35b028152da2d4c2179f}
+      \strng{bibnamehash}{0588209dd6bb35b028152da2d4c2179f}
+      \strng{authorbibnamehash}{0588209dd6bb35b028152da2d4c2179f}
+      \strng{authornamehash}{4997cfdde6eafe3667749d51719c22ce}
+      \strng{authorfullhash}{0588209dd6bb35b028152da2d4c2179f}
+      \strng{authorfullhashraw}{0588209dd6bb35b028152da2d4c2179f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{North American Journal of Psychology}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{title}{Yeah, {I} drink ... but not as much as other guys: the majority fallacy among male adolescents}
+      \field{volume}{9}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{7}
+      \range{pages}{1}
+      \verb{file}
+      \verb Segrist et al. - Yeah, I drink ... but not as much as other guys t.pdf:C\:\\Users\\zelph\\Zotero\\storage\\Y746JPMH\\Segrist et al. - Yeah, I drink ... but not as much as other guys t.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{shamir_pluralistic_1997}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=393459dde2ad175832d21f4d4aae5546}{%
+           family={Shamir},
+           familyi={S\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=6f27a4c42f91974be63a16b8dc1ac0ca}{%
+           family={Shamir},
+           familyi={S\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {[Oxford University Press, American Association for Public Opinion Research]}%
+      }
+      \strng{namehash}{1759dbfd5ee7c2ccb2030af8f1f5fa72}
+      \strng{fullhash}{1759dbfd5ee7c2ccb2030af8f1f5fa72}
+      \strng{fullhashraw}{1759dbfd5ee7c2ccb2030af8f1f5fa72}
+      \strng{bibnamehash}{1759dbfd5ee7c2ccb2030af8f1f5fa72}
+      \strng{authorbibnamehash}{1759dbfd5ee7c2ccb2030af8f1f5fa72}
+      \strng{authornamehash}{1759dbfd5ee7c2ccb2030af8f1f5fa72}
+      \strng{authorfullhash}{1759dbfd5ee7c2ccb2030af8f1f5fa72}
+      \strng{authorfullhashraw}{1759dbfd5ee7c2ccb2030af8f1f5fa72}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Pluralistic ignorance is a well-documented phenomenon in public opinion research. We adopt the social perspective on pluralistic ignorance and focus on the information environment for an explanation of it. Regarding pluralistic ignorance as a problem of information, we consider its implications in terms of cross-sectional variation as well as over time. The empirical analysis combines a comparative study of issues and analysis over time of gender issues and the question of returning territories for peace in Israeli public opinion.}
+      \field{issn}{0033-362X}
+      \field{journaltitle}{The Public Opinion Quarterly}
+      \field{number}{2}
+      \field{shorttitle}{Pluralistic Ignorance Across Issues and Over Time}
+      \field{title}{Pluralistic Ignorance Across Issues and Over Time: Information Cues and Biases}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{61}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{227\bibrangedash 260}
+      \range{pages}{34}
+      \verb{file}
+      \verb PDF:C\:\\Users\\zelph\\Zotero\\storage\\NXJWCUFY\\Shamir and Shamir - 1997 - Pluralistic Ignorance Across Issues and Over Time Information Cues and Biases.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/2749551
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/2749551
+      \endverb
+    \endentry
+    \entry{sparkman_americans_2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d6bb52b8096339f4f5eb3c7ecf5aa1b7}{%
+           family={Sparkman},
+           familyi={S\bibinitperiod},
+           given={Gregg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=470aad3c829c7290915a92d1c5cd5410}{%
+           family={Geiger},
+           familyi={G\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86c96845d5fadba6351f48d53834d9b4}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Elke\bibnamedelima U.},
+           giveni={E\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cc0fea82cfd12e645490f5b0eb561a8d}
+      \strng{fullhash}{c96b673d6d75515119b5b95d1638f506}
+      \strng{fullhashraw}{c96b673d6d75515119b5b95d1638f506}
+      \strng{bibnamehash}{c96b673d6d75515119b5b95d1638f506}
+      \strng{authorbibnamehash}{c96b673d6d75515119b5b95d1638f506}
+      \strng{authornamehash}{cc0fea82cfd12e645490f5b0eb561a8d}
+      \strng{authorfullhash}{c96b673d6d75515119b5b95d1638f506}
+      \strng{authorfullhashraw}{c96b673d6d75515119b5b95d1638f506}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Pluralistic ignorance—a shared misperception of how others think or behave—poses a challenge to collective action on problems like climate change. Using a representative sample of Americans ( N  = 6119), we examine whether Americans accurately perceive national concern about climate change and support for mitigating policies. We find a form of pluralistic ignorance that we describe as a false social reality : a near universal perception of public opinion that is the opposite of true public sentiment. Specifically, 80–90\% of Americans underestimate the prevalence of support for major climate change mitigation policies and climate concern. While 66–80\% Americans support these policies, Americans estimate the prevalence to only be between 37–43\% on average. Thus, supporters of climate policies outnumber opponents two to one, while Americans falsely perceive nearly the opposite to be true. Further, Americans in every state and every assessed demographic underestimate support across all polices tested. Preliminary evidence suggests three sources of these misperceptions: (i) consistent with a false consensus effect, respondents who support these policies less (conservatives) underestimate support by a greater degree; controlling for one’s own personal politics, (ii) exposure to more conservative local norms and (iii) consuming conservative news correspond to greater misperceptions.}
+      \field{day}{23}
+      \field{issn}{2041-1723}
+      \field{journaltitle}{Nature Communications}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{1}
+      \field{shortjournal}{Nat Commun}
+      \field{title}{Americans experience a false social reality by underestimating popular climate policy support by nearly half}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{13}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{4779}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41467-022-32412-y
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\zelph\\Zotero\\storage\\GQ5LPYMN\\Sparkman et al. - 2022 - Americans experience a false social reality by underestimating popular climate policy support by nea.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41467-022-32412-y
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41467-022-32412-y
+      \endverb
+    \endentry
+    \entry{turner_rediscovering_1987}{book}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=acf7ef4679cf875c0639e221dd5ffff0}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={John\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c602698e1db465219fc074849f319d7}{%
+           family={Hogg},
+           familyi={H\bibinitperiod},
+           given={Michael\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=311633e527adaecb6bf25d97e248851d}{%
+           family={Oakes},
+           familyi={O\bibinitperiod},
+           given={Penelope\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63d82466acdb457ae7a516af4dbb06a7}{%
+           family={Reicher},
+           familyi={R\bibinitperiod},
+           given={Stephen\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9cca47e012889b080f8603636c221396}{%
+           family={Wetherell},
+           familyi={W\bibinitperiod},
+           given={Margaret\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, {MA}, {US}}%
+      }
+      \list{publisher}{1}{%
+        {Basil Blackwell}%
+      }
+      \strng{namehash}{046115903dba7f1962455f6a0b90337d}
+      \strng{fullhash}{8ead2ada93fca46f65e7fcec75a4ecf5}
+      \strng{fullhashraw}{8ead2ada93fca46f65e7fcec75a4ecf5}
+      \strng{bibnamehash}{8ead2ada93fca46f65e7fcec75a4ecf5}
+      \strng{authorbibnamehash}{8ead2ada93fca46f65e7fcec75a4ecf5}
+      \strng{authornamehash}{046115903dba7f1962455f6a0b90337d}
+      \strng{authorfullhash}{8ead2ada93fca46f65e7fcec75a4ecf5}
+      \strng{authorfullhashraw}{8ead2ada93fca46f65e7fcec75a4ecf5}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This book presents a new theory of the social group which seeks to explain how individuals become unified into a group and capable of collective behaviour. The book summarizes classic psychological theories of the group, describes and explains the important effects of group membership on social behaviour, outlines self-categorization theory in full and shows how the general perspective has been applied in research on group formation and cohesion, social influence, the polarization of social attitudes, crowd psychology and social stereotyping. The theory emerges as a fundamental new contribution to social psychology. ({PsycINFO} Database Record (c) 2016 {APA}, all rights reserved)}
+      \field{isbn}{978-0-631-14806-7}
+      \field{note}{Pages: x, 239}
+      \field{pagetotal}{x, 239}
+      \field{series}{Rediscovering the social group: A self-categorization theory}
+      \field{shorttitle}{Rediscovering the social group}
+      \field{title}{Rediscovering the social group: A self-categorization theory}
+      \field{year}{1987}
+      \field{dateera}{ce}
+      \keyw{Social Identity,Social Behavior,Social Psychology,Social Influences,Collective Behavior,Social Groups,Group Cohesion}
+    \endentry
+    \entry{ye_influence_2019}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=fdd309e27948d942046d633747cc419b}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Mengbin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9185678d9316e113769b7762ef1f6b7b}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Yuzhen},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c07180bb78e57508c4d9cf27c5be09a8}{%
+           family={Govaert},
+           familyi={G\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8a4070f47356ebf747da5eda23eeddd}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Brian\bibnamedelimb D.\bibnamedelimi O.},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b420cdd284fce534ac179e987a208563}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Ming},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bc8bb36490fca621eb8287633cbeb010}
+      \strng{fullhash}{2f4aaf527c69e01632640efa1ac4ab44}
+      \strng{fullhashraw}{2f4aaf527c69e01632640efa1ac4ab44}
+      \strng{bibnamehash}{2f4aaf527c69e01632640efa1ac4ab44}
+      \strng{authorbibnamehash}{2f4aaf527c69e01632640efa1ac4ab44}
+      \strng{authornamehash}{bc8bb36490fca621eb8287633cbeb010}
+      \strng{authorfullhash}{2f4aaf527c69e01632640efa1ac4ab44}
+      \strng{authorfullhashraw}{2f4aaf527c69e01632640efa1ac4ab44}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In many social situations, a discrepancy arises between an individual’s private and expressed opinions on a given topic. Motivated by Solomon Asch’s seminal experiments on social conformity and other related socio-psychological works, we propose a novel opinion dynamics model to study how such a discrepancy can arise in general social networks of interpersonal influence. Each individual in the network has both a private and an expressed opinion: an individual’s private opinion evolves under social influence from the expressed opinions of the individual’s neighbours, while the individual determines his or her expressed opinion under a pressure to conform to the average expressed opinion of his or her neighbours, termed the local public opinion. General conditions on the network that guarantee exponentially fast convergence of the opinions to a limit are obtained. Further analysis of the limit yields several semi-quantitative conclusions, which have insightful social interpretations, including the establishing of conditions that ensure every individual in the network has such a discrepancy. Last, we show the generality and validity of the model by using it to explain and predict the results of Solomon Asch’s seminal experiments.}
+      \field{day}{1}
+      \field{issn}{0005-1098}
+      \field{journaltitle}{Automatica}
+      \field{month}{9}
+      \field{shortjournal}{Automatica}
+      \field{title}{An influence network model to study discrepancies in expressed and private opinions}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{107}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{371\bibrangedash 381}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.automatica.2019.05.059
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:C\:\\Users\\zelph\\Zotero\\storage\\2MNKAC5U\\S0005109819302870.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0005109819302870
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0005109819302870
+      \endverb
+      \keyw{Networks,Agent-based model,Opinion dynamics,Social conformity,Social network analysis}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

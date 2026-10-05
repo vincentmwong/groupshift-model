@@ -1,0 +1,289 @@
+\documentclass[12pt]{report}
+\usepackage{graphicx}
+\usepackage[margin=1in]{geometry}
+\usepackage{sectsty}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage{textgreek}
+\usepackage{siunitx}
+\usepackage{caption}
+\usepackage{setspace}
+\usepackage{rotating}
+\usepackage{dcolumn}
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{float}
+\usepackage{pdfpages}
+\usepackage{makecell}
+\usepackage{xurl}
+\usepackage{threeparttable}
+\usepackage{array}
+\usepackage{hyphenat}
+\usepackage{soul}
+\usepackage{tabularx}
+\usepackage{multicol}
+\usepackage[breaklinks]{hyperref}
+\hypersetup{hidelinks}
+\usepackage[most]{tcolorbox}
+
+% Define a new box type with its own counter
+\newtcolorbox[auto counter, number within=section]{textbox}[1][]{%
+  enhanced,
+  colback=white,
+  colframe=black,
+  colbacktitle=black!85!white,
+  coltitle=white,
+  fonttitle=\bfseries,
+  title={Box~\thetcbcounter: #1},
+}
+
+% Global Settings for visual consistency
+\renewcommand{\arraystretch}{1.2} % Adds slightly more vertical space between rows
+
+\usepackage[
+  backend=biber,
+  style=apa,
+  language=auto,
+  date=year,
+  sorting=nyt,
+  doi=false,
+  isbn=false,
+  url=false,
+  maxcitenames=2,
+  mincitenames=1
+]{biblatex}
+\usepackage{csquotes}
+\usepackage[american]{babel}
+\DeclareLanguageMapping{american}{american-apa}
+
+\addbibresource{references_v6.bib} % matches the file you uploaded
+\AtEveryBibitem{\clearfield{note}}
+
+\usepackage{xcolor}
+\usepackage{titling}
+
+\doublespacing
+\captionsetup{font=normalsize}
+\chapterfont{\normalsize\bfseries}
+\sectionfont{\normalsize\bfseries}
+\subsectionfont{\normalsize\bfseries}
+\subsubsectionfont{\normalsize\bfseries}
+
+\pretitle{\begin{center}\fontsize{12pt}{14pt}\selectfont}
+\posttitle{\par\end{center}}
+\preauthor{\begin{center}\normalsize}
+\postauthor{\par\end{center}}
+\predate{\begin{center}\normalsize}
+\postdate{\par\end{center}}
+
+\graphicspath{ {images/} }
+
+\renewcommand\theadfont{\normalsize\bfseries}  % bold headers
+\setlength{\extrarowheight}{2pt} % spacing between rows
+
+\title{
+    {INDIVIDUAL COGNITION, SOCIAL STRUCTURE, AND THE EMERGENCE OF GROUP MISPERCEPTION}\\
+    %{\large Indiana University}%\\
+    %{\includegraphics{university.jpg}}
+}
+\author{\vspace{5cm}Vincent Wong}
+%\date{\today}
+\date{\vspace{5cm}\normalsize{Submitted to the faculty of the Graduate School in partial fulfillment \\ of the requirements for the degree Doctor of Philosophy \\
+in the Departments of Informatics and Cognitive Science, \\
+Indiana University \\
+June 2026}}
+
+\begin{document}
+
+\pagenumbering{roman}
+
+%========================================================
+% TITLE
+%========================================================
+\maketitle
+\thispagestyle{empty}
+
+%========================================================
+% ACCEPTANCE
+%========================================================
+
+\clearpage
+\setcounter{page}{2}
+\thispagestyle{plain}
+
+\vspace*{0.5in}
+
+\begin{center}
+Accepted by the Graduate Faculty, Indiana University, in partial fulfillment of the requirements for the degree of Doctor of Philosophy.
+\end{center}
+
+\vspace{0.3in}
+
+\noindent\textbf{Doctoral Committee}
+
+\vspace{0.3in}
+
+\begin{flushright}
+
+  \makebox[3in]{\hrulefill}\\
+  Yong-Yeol Ahn, Ph.D.\\[0.4in]
+
+  \makebox[3in]{\hrulefill}\\
+  Robert Goldstone, Ph.D.\\[0.4in]
+
+  \makebox[3in]{\hrulefill}\\
+  Peter M. Todd, Ph.D.\\[0.4in]
+
+  \makebox[3in]{\hrulefill}\\
+  Eliot R. Smith, Ph.D.\\[0.4in]
+
+  \makebox[3in]{\hrulefill}\\
+  Nathaniel Geiger, Ph.D.
+\end{flushright}
+
+%\vfill
+\vspace{0.5in}
+
+\noindent
+Date of Defense --- April 7, 2026
+
+%========================================================
+% ACKNOWLEDGEMENTS
+%========================================================
+\chapter*{Acknowledgements}
+
+I would like to thank my committee members --- Robert Goldstone, Yong-Yeol Ahn, Peter Todd, Eliot Smith, and Nathaniel Geiger --- for their time, feedback, and contributions to this work. I am particularly grateful to Yong-Yeol Ahn and Robert Goldstone for their continued support throughout my extended doctoral studies. Their willingness to advocate for me, including helping secure teaching opportunities during periods of uncertainty, provided both the financial stability and time necessary for me to continue my development as a researcher and reach the completion of this degree. 
+Additionally, I am grateful to the National Science Foundation for supporting research included in this dissertation. I am especially grateful to Nathaniel Geiger for making it possible for me to participate in that work and for his guidance throughout the development of this dissertation.
+
+My thanks also go to the many colleagues qua friends and collaborators who shared pieces of their experience with me in conversations over coffee and coworking sessions over the years. In particular, I am grateful to Sebahat G\"ok, Marina Dubova, Priyamvada Modak, Varun Rao, and Eleanor Schille-Hudson. 
+Your words of insight into your process and your support became the bricks that helped me put together an understanding of the craft and life of research. 
+
+I would also like to thank the administrative staff who helped me navigate the many logistical challenges of graduate school, especially Tara Holbrook, Beverly Diekhoff, and Joshua Kemp. Their timely responses and willingness to help made managing administrative paperwork and deadlines significantly easier. 
+
+I am grateful to the friends and community members who supported me outside of academia. I would like to thank Nate, Tyler, and Joc for your willingness to listen and corroborate moments of struggle, and for standing with me in times when I was not sure how to stand myself. To members of my queer and artistic communities --- especially Ken, Aether, Keith, and Scott --- thank you for helping me keep in contact with all of the aspects of life. I'd especially like to thank Ken for helping me work through not only life but also academic topics by being a font of curiosity and conversation. 
+
+Finally, I would like to thank my parents for their support throughout this journey. I am so grateful to have parents who outwardly voice their support and pride to the end. 
+I greatly appreciate everything you've done to ensure I always have a stable world I know I can return to, particularly during the times I was not sure where or how I fit. 
+I am especially grateful to my mother for her guidance, and for sharing her own experience as an academic. 
+
+Graduate school was often more challenging and uncertain than I expected, and I am grateful to all of the people whose support helped me persist. 
+
+%========================================================
+% ABSTRACT
+%========================================================
+\clearpage
+\phantomsection
+\addcontentsline{toc}{chapter}{Abstract}
+
+\begin{center}
+Vincent Wong\\
+INDIVIDUAL COGNITION, SOCIAL STRUCTURE, AND THE EMERGENCE OF GROUP MISPERCEPTION
+\end{center}
+
+Misperceptions of social norms --- group expectations for social behavior --- are widespread across domains ranging from dating behavior to climate concern. 
+Research on social norm misperception has documented these effects across many domains. However, much of this work focuses on perceptions of groups overall, leaving open the question of how individuals' direct observations of other individuals and their social circles translate into group-level inferences. This dissertation examines how perceptions of individuals shape perceptions and misperceptions of groups through distinct person-perception mechanisms.
+
+The first study uses computational modeling to examine how cognitive biases in sampling and integrating information about others affect emergent perceptions of group norms as people seek groups to join. The model demonstrates that whether collective misperceptions reproduce phenomena in which individuals privately disagree with perceived group norms or exaggerate differences between groups depends critically on how prototypical group members are sampled.
+
+The second study investigates how different social network structures influence inferences about within-group similarity and interpersonal affiliations. Results show that perceived shared interests strongly shape judgments of group similarity and estimates of friendship likelihood, above and beyond the influence of network structure itself.
+
+The third study experimentally examines how inferred reasons for other individuals' behaviors (attributions) transfer to estimates of overarching group opinion. Findings indicate an asymmetric effect in the interaction between perceived behavioral prevalence and attribution tendency: participants underestimate group opinion when a low prevalence of behavior is attributed to beliefs, yet a corresponding change in perceived group opinion does not occur for a high prevalence of behaviors. 
+
+Together, these studies advance a framework for understanding how biases in observing individuals --- through sampling, relational perception, and attribution --- scale up to shape perceptions of groups. This work contributes to research on pluralistic ignorance, social norm misperception, and the cognitive foundations of group perception.
+
+%\chapter*{Dedication}
+%To mum and dad
+
+%\chapter*{Declaration}
+%I declare that..
+
+\tableofcontents
+
+\clearpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\chapter{Introduction}
+\input{chapters/introduction}
+
+\chapter{Modeling Group Misperceptions from Sampling and Perception-Mediated Dynamics} %CH2 TITLE: Study 1
+\input{chapters/chapter01}
+
+\chapter{Effect of Network Structure on Group Perception} %CH3 TITLE: Study 2
+\input{chapters/chapter02}
+
+\chapter{Transfer of Attributions from Individual to Group} %CH3 TITLE: Study 3
+\input{chapters/chapter03}
+
+\chapter{Conclusion}
+\input{chapters/conclusion}
+
+
+\clearpage
+\phantomsection
+\addcontentsline{toc}{chapter}{Bibliography}
+\nocite{*}
+\printbibliography[title={Bibliography}]
+
+
+\appendix
+\chapter{Study instruments}
+\input{chapters/appendix}
+
+
+
+\clearpage
+\phantomsection
+\addtocontents{toc}{\protect\contentsline{chapter}{Curriculum Vitae}{}{}}
+\includepdf[pages=-]{cv_wong_vincent_v5.pdf}
+%cv_wong_vincent_v3 -- First submission, normal formatting
+%cv_wong_vincent_v4 -- Margins set to 1 inch
+%cv_wong_vincent_v5 -- Margins set to 1 inch and all text set to 11pt
+
+
+\end{document}
+
+
+
+
+
+
+% Old premable -- Saving this juuuuust in case
+% \documentclass[12pt]{report}
+% \usepackage[utf8]{inputenc}
+% \usepackage{graphicx}
+% \usepackage{amsmath}
+% \usepackage[most]{tcolorbox}
+
+% % Define a new box type with its own counter
+% \newtcolorbox[auto counter, number within=section]{textbox}[1][]{%
+%   enhanced,
+%   colback=white,
+%   colframe=black,
+%   colbacktitle=black!85!white,
+%   coltitle=white,
+%   fonttitle=\bfseries,
+%   title={Box~\thetcbcounter: #1},
+% }
+
+% \usepackage{enumitem}
+% \usepackage{textgreek}
+% \usepackage{booktabs}
+% \usepackage{xurl}
+% \usepackage{threeparttable}
+
+% \usepackage{array}
+% \usepackage{makecell}
+% \usepackage{rotating}
+% \usepackage{hyphenat}
+% \usepackage{soul}
+% \usepackage{tabularx}
+% \usepackage{geometry}
+% \usepackage{changepage} % for adjustwidth environment
+% \usepackage[style=apa, backend=biber]{biblatex} % pick your style here
+% \addbibresource{references_v4.bib} % matches the file you uploaded
+% \AtEveryBibitem{\clearfield{note}}
+% % \DeclareFieldFormat{url}{\url{#1}}
+% % \DeclareFieldFormat{doi}{\url{https://doi.org/#1}}
+
+% \usepackage[breaklinks]{hyperref}
