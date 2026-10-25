@@ -133,7 +133,8 @@ def vectorized_node_sampling(P, set1_indices, set2_indices, is_in_set1, X, Y):
     """
     Returns:
         members: list of length N
-            each entry = [ingroup_samples, outgroup_samples]
+            each entry = [group 0 samples, group 1 samples], indexed by group ID
+            (not ingroup/outgroup), as the GLEAN mechanics expect
     """
     N, M = P.shape
 
@@ -158,6 +159,8 @@ def vectorized_node_sampling(P, set1_indices, set2_indices, is_in_set1, X, Y):
 
             own = set1_indices[own_idx]
             other = set2_indices[other_idx]
+
+            members.append([own, other])
         else:
             # ingroup = set2
             own_scores = scores_s2[i]
@@ -169,7 +172,7 @@ def vectorized_node_sampling(P, set1_indices, set2_indices, is_in_set1, X, Y):
             own = set2_indices[own_idx]
             other = set1_indices[other_idx]
 
-        members.append([own, other])
+            members.append([other, own])
 
     return members
 
