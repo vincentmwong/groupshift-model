@@ -19,3 +19,7 @@ Manuscript/main.pdf
 
 # OS
 .DS_Store
+
+# Local development environments and editor settings
+.venv/
+.vscode/
