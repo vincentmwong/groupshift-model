@@ -17,6 +17,22 @@ Legacy:
 
 
 
+## Setup and tests
+
+Install [uv](https://docs.astral.sh/uv/getting-started/installation/), then run these commands from the repository root:
+
+```sh
+uv sync --locked
+uv run --locked pytest -q
+```
+
+The environment uses Python 3.13 and includes the dependencies imported by `groupshift_model.py` and `groupshift_parallel.py`, plus pytest.
+`uv.lock` records the resolved versions; `.venv/` stays local.
+The exploratory notebooks may need additional packages and a Jupyter environment.
+
+For batch simulations, first edit the configuration and `output_folder` in `groupshift_parallel.py`, then run `uv run --locked python groupshift_parallel.py`.
+Its defaults launch 450 simulations with 16 workers and write to `/l/nx/data/groupshift/simdata/`; choose settings and a writable output directory for your machine.
+
 # Project procedures for humans and AI
 
 AI should not modify this section (the "Project procedures for humans and AI" section) of `README.md` under any circumstances. AI must read this section before proceeding to make any changes to this project. 
