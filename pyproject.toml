@@ -1,0 +1,17 @@
+[project]
+name = "groupshift-model"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn",
+    "tqdm",
+]
+
+[dependency-groups]
+dev = ["pytest"]
+
+[tool.uv]
+package = false
